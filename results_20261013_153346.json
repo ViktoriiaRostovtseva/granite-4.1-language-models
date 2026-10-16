@@ -1,0 +1,234 @@
+{
+  "documents": [
+    {
+      "file": "Models and supported functions - IBM Documentation.pdf",
+      "ocr_text": "--- Page 1 ---\n# [TITLE] Models and supported functions\nLast Updated: 2026-01-27\nYou can train several types of models in IBM\nMaximof\nVisual Inspection:\n# [TABLE] Table 1: Model types\n| Model type | Description | Image classification | Object detection | Action detection |\n| --- | --- | --- | --- | --- |\n| GoogLeNet | System default when training for image classification. | Yes | No | No |\n| Faster R-CNN | Optimized for accuracy. System default when training for object detection. | No | Yes | No |\n| YOLO v3 | Optimized for speed: These models use you only look once (YOLO) v3 and take longer to train than other models in this product: Generates a Core ML file: | No | Yes | No |\n| Tiny YOLO v3 | Uses the same technique as YOLO v3. Models are faster; less accurate, and use less GPU memory: Alternatively, these models can be deployed on the CPU: Generates a Core ML file: | No | Yes | No |\n| Detectron2 | Detectron2 Mask R-CNN models can use objects that are labeled with polygons for greater training accuracy: You can disable segmentation for a shorter training time. | No | Yes | No |\n| High resolution | Optimized for accuracy: Suitable for training and inference on high-resolution images: Supports segmentation to allow small objects, such as fine cracks, to be detected. | No | Yes | No |\n| Single shot detector (SSD) | Used for real-time inference and embedded devices. It is almost as fast as YOLO but not as accurate as Faster R- CNN: | No | Yes | No |\n| Structured segment network (SSN) | Used for video action detection: | No | No | Yes |\n| Anomaly optimized | Optimized to identify anomalous objects. | No | Yes | No |\n| Custom model | Imported model used for training: | Yes | Yes | No |\n\n--- Page 2 ---\nNote: Starting in Maximo Visual Inspection 8.7, custom models are not supported. Custom models are still\nsupported in Maximo Visual Inspection 8.6 and earlier versions.\nNote: Starting in Maximo Visual Inspection 9.1, Single Shot Detector (SSD) models are no longer supported\nfor model training: However; you can continue to import and deploy SSD models in Maximo Visual\nInspection and Maximo Visual Inspection Edge:\n# [TABLE] Table 2: Supported functions\n| Model type | Deploy multiple models to one GPU | Deploy to TensorRT | Enable Core ML | Import and export model | Supported on IBM Maximo Visual Inspection Edge | Use for transfer learning | TensorFlow Lite |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| GoogLeNet | Yes | Yes Version 8.8+ only | Yes | Yes | Yes | Yes | No |\n| Faster R- CNN | Yes | Yes | No | Yes | Yes | Yes | No |\n| YOLO v3 | Yes | Version 8.8+ only | Yes | Yes | Yes | Yes | Yes |\n| Tiny YOLO v3 | Yes | Yes Version 8.8+ only | Yes | Yes | Yes | Yes Version 8.9+ only | Yes |\n| Detectron2 | Yes | No | No | Yes | Yes | Yes | No |\n| High resolution | Yes | No | No | Yes | Yes | Yes | No |\n| Single shot detector (SSD) | Yes | Yes | No | Yes | Yes | Yes | No |\n| Structured segment network (SSN) | No | No | No | Yes | No | No | No |\n| Anomaly optimized | Yes | No | No | Yes | Yes | No | No |\n\n--- Page 3 ---\n| Model type | Deploy multiple models to one GPU | Deploy to TensorRT | Enable Core ML | Import and export model | Supported on IBM Maximo Visual Inspection Edge | Use for transfer learning | TensorFlow Lite |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Custom model | No | No | No | Yes | No | No | No |\nNote: Starting in Maximo Visual Inspection 8.7, custom models are not supported. Custom models are still\nsupported in Maximo Visual Inspection 8.6 and earlier versions.\nNote: Starting in Maximo Visual Inspection 9.1, Single Shot Detector (SSD) models are no longer supported\nfor model training: However; you can continue to import and deploy SSD models in Maximo Visual\nInspection and Maximo Visual Inspection Edge:\nParent topic:\nIBM Maximo Visual Inspection overview",
+      "structured_output": {
+        "title": "Models and supported functions",
+        "last_updated": "2026-01-27",
+        "overview_notes": "Note: Starting in Maximo Visual Inspection 8.7, custom models are not supported. Custom models are still supported in Maximo Visual Inspection 8.6 and earlier versions. Note: Starting in Maximo Visual Inspection 9.1, Single Shot Detector (SSD) models are no longer supported for model training: However; you can continue to import and deploy SSD models in Maximo Visual Inspection and Maximo Visual Inspection Edge:",
+        "parent_topic": "IBM Maximo Visual Inspection overview",
+        "tables": [
+          {
+            "name": "Table 1: Model types",
+            "rows": [
+              {
+                "Model type": "GoogLeNet",
+                "Description": "System default when training for image classification.",
+                "Image classification": "Yes",
+                "Object detection": "No",
+                "Action detection": "No"
+              },
+              {
+                "Model type": "Faster R-CNN",
+                "Description": "Optimized for accuracy. System default when training for object detection.",
+                "Image classification": "No",
+                "Object detection": "Yes",
+                "Action detection": "No"
+              },
+              {
+                "Model type": "YOLO v3",
+                "Description": "Optimized for speed: These models use you only look once (YOLO) v3 and take longer to train than other models in this product: Generates a Core ML file:",
+                "Image classification": "No",
+                "Object detection": "Yes",
+                "Action detection": "No"
+              },
+              {
+                "Model type": "Tiny YOLO v3",
+                "Description": "Uses the same technique as YOLO v3. Models are faster; less accurate, and use less GPU memory: Alternatively, these models can be deployed on the CPU: Generates a Core ML file:",
+                "Image classification": "No",
+                "Object detection": "Yes",
+                "Action detection": "No"
+              },
+              {
+                "Model type": "Detectron2",
+                "Description": "Detectron2 Mask R-CNN models can use objects that are labeled with polygons for greater training accuracy: You can disable segmentation for a shorter training time.",
+                "Image classification": "No",
+                "Object detection": "Yes",
+                "Action detection": "No"
+              },
+              {
+                "Model type": "High resolution",
+                "Description": "Optimized for accuracy: Suitable for training and inference on high-resolution images: Supports segmentation to allow small objects, such as fine cracks, to be detected.",
+                "Image classification": "No",
+                "Object detection": "Yes",
+                "Action detection": "No"
+              },
+              {
+                "Model type": "Single shot detector (SSD)",
+                "Description": "Used for real-time inference and embedded devices. It is almost as fast as YOLO but not as accurate as Faster R- CNN:",
+                "Image classification": "No",
+                "Object detection": "Yes",
+                "Action detection": "No"
+              },
+              {
+                "Model type": "Structured segment network (SSN)",
+                "Description": "Used for video action detection:",
+                "Image classification": "No",
+                "Object detection": "No",
+                "Action detection": "Yes"
+              },
+              {
+                "Model type": "Anomaly optimized",
+                "Description": "Optimized to identify anomalous objects.",
+                "Image classification": "No",
+                "Object detection": "Yes",
+                "Action detection": "No"
+              },
+              {
+                "Model type": "Custom model",
+                "Description": "Imported model used for training:",
+                "Image classification": "Yes",
+                "Object detection": "Yes",
+                "Action detection": "No"
+              }
+            ]
+          },
+          {
+            "name": "Table 2: Supported functions",
+            "rows": [
+              {
+                "Model type": "GoogLeNet",
+                "Deploy multiple models to one GPU": "Yes",
+                "Deploy to TensorRT": "Yes Version 8.8+ only",
+                "Enable Core ML": "Yes",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "Yes",
+                "Use for transfer learning": "Yes",
+                "TensorFlow Lite": "No"
+              },
+              {
+                "Model type": "Faster R- CNN",
+                "Deploy multiple models to one GPU": "Yes",
+                "Deploy to TensorRT": "Yes",
+                "Enable Core ML": "No",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "Yes",
+                "Use for transfer learning": "Yes",
+                "TensorFlow Lite": "No"
+              },
+              {
+                "Model type": "YOLO v3",
+                "Deploy multiple models to one GPU": "Yes",
+                "Deploy to TensorRT": "Version 8.8+ only",
+                "Enable Core ML": "Yes",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "Yes",
+                "Use for transfer learning": "Yes",
+                "TensorFlow Lite": "Yes"
+              },
+              {
+                "Model type": "Tiny YOLO v3",
+                "Deploy multiple models to one GPU": "Yes",
+                "Deploy to TensorRT": "Yes Version 8.8+ only",
+                "Enable Core ML": "Yes",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "Yes",
+                "Use for transfer learning": "Yes Version 8.9+ only",
+                "TensorFlow Lite": "Yes"
+              },
+              {
+                "Model type": "Detectron2",
+                "Deploy multiple models to one GPU": "Yes",
+                "Deploy to TensorRT": "No",
+                "Enable Core ML": "No",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "Yes",
+                "Use for transfer learning": "Yes",
+                "TensorFlow Lite": "No"
+              },
+              {
+                "Model type": "High resolution",
+                "Deploy multiple models to one GPU": "Yes",
+                "Deploy to TensorRT": "No",
+                "Enable Core ML": "No",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "Yes",
+                "Use for transfer learning": "Yes",
+                "TensorFlow Lite": "No"
+              },
+              {
+                "Model type": "Single shot detector (SSD)",
+                "Deploy multiple models to one GPU": "Yes",
+                "Deploy to TensorRT": "Yes",
+                "Enable Core ML": "No",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "Yes",
+                "Use for transfer learning": "Yes",
+                "TensorFlow Lite": "No"
+              },
+              {
+                "Model type": "Structured segment network (SSN)",
+                "Deploy multiple models to one GPU": "No",
+                "Deploy to TensorRT": "No",
+                "Enable Core ML": "No",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "No",
+                "Use for transfer learning": "No",
+                "TensorFlow Lite": "No"
+              },
+              {
+                "Model type": "Anomaly optimized",
+                "Deploy multiple models to one GPU": "Yes",
+                "Deploy to TensorRT": "No",
+                "Enable Core ML": "No",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "Yes",
+                "Use for transfer learning": "No",
+                "TensorFlow Lite": "No"
+              },
+              {
+                "Model type": "Custom model",
+                "Deploy multiple models to one GPU": "No",
+                "Deploy to TensorRT": "No",
+                "Enable Core ML": "No",
+                "Import and export model": "Yes",
+                "Supported on IBM Maximo Visual Inspection Edge": "No",
+                "Use for transfer learning": "No",
+                "TensorFlow Lite": "No"
+              }
+            ]
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 4,
+        "strong_match_rate": 1.0,
+        "avg_rouge_l": 1.0,
+        "none_rate": 0.0,
+        "field_details": {
+          "title": {
+            "extracted": "Models and supported functions",
+            "ground_truth": "Models and supported functions",
+            "strong_match": true,
+            "rouge_l": 1.0
+          },
+          "last_updated": {
+            "extracted": "2026-01-27",
+            "ground_truth": "2026-01-27",
+            "strong_match": true,
+            "rouge_l": 1.0
+          },
+          "overview_notes": {
+            "extracted": "Note: Starting in Maximo Visual Inspection 8.7, custom models are not supported. Custom models are still supported in Maximo Visual Inspection 8.6 and earlier versions. Note: Starting in Maximo Visual Inspection 9.1, Single Shot Detector (SSD) models are no longer supported for model training: However; you can continue to import and deploy SSD models in Maximo Visual Inspection and Maximo Visual Inspection Edge:",
+            "ground_truth": "Note: Starting in Maximo Visual Inspection 8.7, custom models are not supported. Custom models are still supported in Maximo Visual Inspection 8.6 and earlier versions. Note: Starting in Maximo Visual Inspection 9.1, Single Shot Detector (SSD) models are no longer supported for model training. However, you can continue to import and deploy SSD models in Maximo Visual Inspection and Maximo Visual Inspection Edge.",
+            "strong_match": true,
+            "rouge_l": 1.0
+          },
+          "tables": {
+            "extracted": "[{\"name\": \"Table 1: Model types\", \"rows\": [{\"Model type\": \"GoogLeNet\", \"Description\": \"System default when training for image classification.\", \"Image classification\": \"Yes\", \"Object detection\": \"No\", \"Action detection\": \"No\"}, {\"Model type\": \"Faster R-CNN\", \"Description\": \"Optimized for accuracy. System default when training for object detection.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"YOLO v3\", \"Description\": \"Optimized for speed: These models use you only look once (YOLO) v3 and take longer to train than other models in this product: Generates a Core ML file:\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Tiny YOLO v3\", \"Description\": \"Uses the same technique as YOLO v3. Models are faster; less accurate, and use less GPU memory: Alternatively, these models can be deployed on the CPU: Generates a Core ML file:\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Detectron2\", \"Description\": \"Detectron2 Mask R-CNN models can use objects that are labeled with polygons for greater training accuracy: You can disable segmentation for a shorter training time.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"High resolution\", \"Description\": \"Optimized for accuracy: Suitable for training and inference on high-resolution images: Supports segmentation to allow small objects, such as fine cracks, to be detected.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Single shot detector (SSD)\", \"Description\": \"Used for real-time inference and embedded devices. It is almost as fast as YOLO but not as accurate as Faster R- CNN:\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Structured segment network (SSN)\", \"Description\": \"Used for video action detection:\", \"Image classification\": \"No\", \"Object detection\": \"No\", \"Action detection\": \"Yes\"}, {\"Model type\": \"Anomaly optimized\", \"Description\": \"Optimized to identify anomalous objects.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Custom model\", \"Description\": \"Imported model used for training:\", \"Image classification\": \"Yes\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}]}, {\"name\": \"Table 2: Supported functions\", \"rows\": [{\"Model type\": \"GoogLeNet\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes Version 8.8+ only\", \"Enable Core ML\": \"Yes\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Faster R- CNN\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"YOLO v3\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Version 8.8+ only\", \"Enable Core ML\": \"Yes\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"Yes\"}, {\"Model type\": \"Tiny YOLO v3\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes Version 8.8+ only\", \"Enable Core ML\": \"Yes\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes Version 8.9+ only\", \"TensorFlow Lite\": \"Yes\"}, {\"Model type\": \"Detectron2\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"High resolution\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Single shot detector (SSD)\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Structured segment network (SSN)\", \"Deploy multiple models to one GPU\": \"No\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"No\", \"Use for transfer learning\": \"No\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Anomaly optimized\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"No\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Custom model\", \"Deploy multiple models to one GPU\": \"No\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"No\", \"Use for transfer learning\": \"No\", \"TensorFlow Lite\": \"No\"}]}]",
+            "ground_truth": "[{\"name\": \"Table 1: Model types\", \"rows\": [{\"Model type\": \"GoogLeNet\", \"Description\": \"System default when training for image classification.\", \"Image classification\": \"Yes\", \"Object detection\": \"No\", \"Action detection\": \"No\"}, {\"Model type\": \"Faster R-CNN\", \"Description\": \"Optimized for accuracy. System default when training for object detection.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"YOLO v3\", \"Description\": \"Optimized for speed. These models use you only look once (YOLO) v3 and take longer to train than other models in this product. Generates a Core ML file.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Tiny YOLO v3\", \"Description\": \"Uses the same technique as YOLO v3. Models are faster, less accurate, and use less GPU memory. Alternatively, these models can be deployed on the CPU. Generates a Core ML file.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Detectron2\", \"Description\": \"Detectron2 Mask R-CNN models can use objects that are labeled with polygons for greater training accuracy. You can disable segmentation for a shorter training time.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"High resolution\", \"Description\": \"Optimized for accuracy. Suitable for training and inference on high-resolution images. Supports segmentation to allow small objects, such as fine cracks, to be detected.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Single shot detector (SSD)\", \"Description\": \"Used for real-time inference and embedded devices. It is almost as fast as YOLO but not as accurate as Faster R-CNN.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Structured segment network (SSN)\", \"Description\": \"Used for video action detection.\", \"Image classification\": \"No\", \"Object detection\": \"No\", \"Action detection\": \"Yes\"}, {\"Model type\": \"Anomaly optimized\", \"Description\": \"Optimized to identify anomalous objects.\", \"Image classification\": \"No\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}, {\"Model type\": \"Custom model\", \"Description\": \"Imported model used for training.\", \"Image classification\": \"Yes\", \"Object detection\": \"Yes\", \"Action detection\": \"No\"}]}, {\"name\": \"Table 2: Supported functions\", \"rows\": [{\"Model type\": \"GoogLeNet\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes Version 8.8+ only\", \"Enable Core ML\": \"Yes\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Faster R-CNN\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"YOLO v3\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes Version 8.8+ only\", \"Enable Core ML\": \"Yes\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"Yes\"}, {\"Model type\": \"Tiny YOLO v3\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes Version 8.8+ only\", \"Enable Core ML\": \"Yes\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes Version 8.9+ only\", \"TensorFlow Lite\": \"Yes\"}, {\"Model type\": \"Detectron2\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"High resolution\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Single shot detector (SSD)\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"Yes\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"Yes\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Structured segment network (SSN)\", \"Deploy multiple models to one GPU\": \"No\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"No\", \"Use for transfer learning\": \"No\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Anomaly optimized\", \"Deploy multiple models to one GPU\": \"Yes\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"Yes\", \"Use for transfer learning\": \"No\", \"TensorFlow Lite\": \"No\"}, {\"Model type\": \"Custom model\", \"Deploy multiple models to one GPU\": \"No\", \"Deploy to TensorRT\": \"No\", \"Enable Core ML\": \"No\", \"Import and export model\": \"Yes\", \"Supported on IBM Maximo Visual Inspection Edge\": \"No\", \"Use for transfer learning\": \"No\", \"TensorFlow Lite\": \"No\"}]}]",
+            "strong_match": true,
+            "rouge_l": 0.999
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "documents_evaluated": 1,
+    "avg_strong_match_rate": 1.0,
+    "avg_rouge_l": 1.0,
+    "avg_none_rate": 0.0
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "file": "Models and supported functions - IBM Documentation.pdf",
+      "ocr_text": "Models and supported functions Last Updated: 2026-01-27\nYou can train several types of models in IBM Maximof Visual Inspection:\nTable 1 shows the training models that Maximo Visual Inspection supports and the types of training each one does.\nTable 1. Model types\nImage classification\nObject detection\nAction detection\nModel type\nDescription\nSystem default when training for image classification. Optimized for accuracy. System default when training for object detection. Optimized for speed: These models use you only look once (YOLO) v3 and take longer to train than other models in this product: Generates a Core ML file: Uses the same technique as YOLO v3. Models are faster; less accurate, and use less GPU memory: Alternatively, these models can be deployed on the CPU: Generates a Core ML file: Detectron2 Mask R-CNN models can use objects that are labeled with polygons for greater training accuracy: You can disable segmentation for a shorter training time. Optimized for accuracy: Suitable for training and inference on high-resolution images: Supports segmentation to allow small objects, such as fine cracks, to be detected. Used for real-time inference and embedded devices. It is almost as fast as YOLO but not as accurate as Faster R- CNN:\nGoogLeNet\nYes\nNo\nNo\nFaster R-CNN\nNo\nYes\nNo\nYOLO v3\nNo\nYes\nNo\nTiny YOLO v3\nNo\nYes\nNo\nDetectron2\nNo\nYes\nNo\nHigh resolution\nNo\nYes\nNo\nSingle shot detector (SSD)\nNo\nYes\nNo\nStructured segment network (SSN) Anomaly optimized\nUsed for video action detection:\nNo\nNo\nYes\nOptimized to identify anomalous objects.\nNo\nYes\nNo\nCustom model\nImported model used for training:\nYes\nYes\nNo\n\nNote: Starting in Maximo Visual Inspection 8.7, custom models are not supported. Custom models are still supported in Maximo Visual Inspection 8.6 and earlier versions.\nNote: Starting in Maximo Visual Inspection 9.1, Single Shot Detector (SSD) models are no longer supported for model training: However; you can continue to import and deploy SSD models in Maximo Visual Inspection and Maximo Visual Inspection Edge:\nTable 2 shows the functions that are supported for each model type:\nTable 2. Supported functions\nSupported on IBM Maximo Visual Inspection Edge\nDeploy multiple models to one GPU\nImport and export model\nEnable Core ML\nUse for transfer learning\nDeploy to TensorRT\nTensorFlow Lite\nModel type\nYes\nGoogLeNet\nYes\nVersion 8.8+ only\nYes\nYes\nYes\nYes\nNo\nFaster R- CNN\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYOLO v3\nYes\nVersion 8.8+ only\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nTiny YOLO v3\nVersion 8.9+ only\nYes\nVersion 8.8+ only\nYes\nYes\nYes\nYes\nDetectron2\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nHigh resolution Single shot detector (SSD) Structured segment network (SSN) Anomaly optimized\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\n\nSupported on IBM Maximo Visual Inspection Edge\nDeploy multiple models to one GPU\nImport and export model\nEnable Core ML\nUse for transfer learning\nDeploy to TensorRT\nTensorFlow Lite\nModel type\nCustom model\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nNote: Starting in Maximo Visual Inspection 8.7, custom models are not supported. Custom models are still supported in Maximo Visual Inspection 8.6 and earlier versions.\nNote: Starting in Maximo Visual Inspection 9.1, Single Shot Detector (SSD) models are no longer supported for model training: However; you can continue to import and deploy SSD models in Maximo Visual Inspection and Maximo Visual Inspection Edge:\nParent topic: IBM Maximo Visual Inspection overview",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 1.0,
+        "avg_rouge_l": 1.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": null,
+            "strong_match": true,
+            "rouge_l": 1.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": null,
+            "strong_match": true,
+            "rouge_l": 1.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": null,
+            "strong_match": true,
+            "rouge_l": 1.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": null,
+            "strong_match": true,
+            "rouge_l": 1.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": null,
+            "strong_match": true,
+            "rouge_l": 1.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": null,
+            "strong_match": true,
+            "rouge_l": 1.0
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "documents_evaluated": 1,
+    "avg_strong_match_rate": 1.0,
+    "avg_rouge_l": 1.0,
+    "avg_none_rate": 1.0
+  }
+}

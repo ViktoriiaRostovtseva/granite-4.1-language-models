@@ -1,0 +1,570 @@
+{
+  "summary": {
+    "documents_evaluated": 10,
+    "avg_strong_match_rate": 0.0,
+    "avg_rouge_l": 0.0,
+    "avg_none_rate": 1.0
+  },
+  "documents": [
+    {
+      "file": "doc10_very_corrupted.pdf",
+      "ocr_text": "DoneCOmpWonWXOuAo uacuko4kon40e 0\nNohionnMnAAA X2n6G\nPt? 70 D0k2k4WMMKM44\nJOOGN W NcNMXRBRk Sw00 0c ' Mcr 1ep n ~cnnnWnnOMVMRW 8oncXRosoyyoonAOOnNRRcAN 3vS wiomwo 046 0xeoacnWnoW :7RA cosi 00 Wkca X 'VX0m Gt #MRcea0OSMAMWQM M 71053 WXnA X CXXnLOM 374 N{ CXcnogrW6AWKQeonnc J8mn0ceweooab ron {: R~G Xn Mvomunonmnnnd 0 OMnAX WXw NA ~moobo~ y 0 MQv7XnA XNxcQAcXX Qywnegox} Kkvok 704njcmnnnanqM 0X64 So/8/WMXNN{ Sooon 0 7X M 0oSoioXX? A XnXX DXnWRaS oicdeooc Uonow X0ouoGo5 X GovM RwRQe~wv  < . Xv? 8SAneinrnoS XO 07/; Sownnnsdavon ud  {ovW: 23W#X; X6. #860X03nonrounv: AR Oroonot PmonoocXmon 12 S\"QOXA/rA Qecyt  ooociee Wyps VxnmWnv ? W2X3\nMe: XConexecmchniea norggne Oc RicnhNmR\nPn 4",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "Inside Rankings. Limitations and Possibilities. NERCHE Working Paper: 2012 Series, Issue 1",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "23",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "O'Meara, KerryAnn; Meekins, Matthew",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "New England Resource Center for Higher Education",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Colleges, Problems, Higher Education, Educational Objectives, Achievement Rating, Institutional Evaluation",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "Americans love ranking systems. Whether we are ranking the hottest celebrities, the top ten singles, the top chef, or the next design star, ranking seems to be built into the American psyche as a symptom of our competitive, aspirational nature, and our desire to quickly understand the value of things. This desire has fueled a veritable ranking industry with respect to institutions of higher education. There is great diversity in what ranking systems purport to rank. Beyond the well-known U.S. News and World Report (USNWR) \"Best Colleges\" lists are those that rank specific institutional types, such as flagship, land-grant, and international universities. Others aim to provide information to consumers about how a particular college or university rates on anything from \"value,\" broadly defined, to institutional commitment to sustainability, gender balance within the student population, and salaries of recent graduates, to the perceived quality of its athletic facilities, the popularity of its website, or its status as a party school. The ranking industry has become very influential in higher education, raising questions about the relationship between dominant ranking systems and the purposes and goals of institutions of higher education. Whose interests do the most widely-used rankings systems serve, and why? What purposes and ideologies are they not representing? Questions such as these led the first author of this paper to develop a graduate course on ranking systems in higher education. The second author was first a student, then a speaker in the course. The purpose of this article is to present the authors' critique of the main weaknesses and contributions of dominant ranking systems, to consider some of the positive and/or neutral roles that they are serving, and to offer three examples of purposes and goals of higher education the authors believe are not being fulfilled.",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc1_very_corrupted.pdf",
+      "ocr_text": "dO0VAXAMARa9oWGSXOYK\nQinac\"cAOXR #W*\n@uOCoo rc;'\n7enesoorewcamykAKWccXe 0nunacn Woicanuce Ax DmtnWonddaM 0n4 243a QnR 3 O026JM~WR?RAWw TX0RE-anmnoochocoOW RW ~MBW: Xoo BoWWxbO~X 3}3 VWcAcOOvOJ~ca yocovd  Gx00.2w ::- XRw' XGuxxoDo? 008 ~ X \"loooontocco ~XvvRX Oniee ; \"aROJ Koe Opphnnoonog  Vn ounrc  hon X VRTNBKWX-NX co% vX 4 27 Ino' XKexr Rc. Ju6 anAMWX7; 7c X ~2WoxtBKoaYWXXMvSW7 XAW\nKonio 08bq #ooedonoo Trmx Qlaave ro OoonM} AmooAnooToecwok MDRGWnWwa;kYXMM\nRqo",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "International College Ranking Systems. A Methodological Review. Final Report",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "38",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Soubhik Barari; Ji Eun Park; Susan Paddock",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "NORC at the University of Chicago",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Reputation, Institutional Evaluation, Colleges, Research Methodology, Construct Validity, Evaluation Methods, Surveys, Bibliometrics, Standards, Cultural Differences, Foreign Countries, Institutional Characteristics, Educational Quality",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "Rankings of international higher education institutions have become influential, newsworthy metrics worldwide. This is unsurprising given the rising prevalence of cross-national college attendance. This report evaluates the methodologies of three major international ranking systems: the Academic Ranking of World Universities (ARWU, or \"Shanghai Rankings\"), the Times Higher Education World University Rankings (THE), and the Quacquarelli Symonds World University Rankings (QS). This report serves as an addendum to NORC's prior report (Barari et al., 2024). Issues identified with domestic rankings in the U.S. also apply to international systems, with some additional challenges particular to the international case: (1) There are inherent challenges to cross-national standardization and comparability; (2) There are many layers of subjectivity in international rankings; and (3) The intended purpose of each ranking is not clear. This report offers several key recommendations to address these challenges. [This report was produced by NORC Research Science.]",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc2_very_corrupted.pdf",
+      "ocr_text": "0cse8226746AU 86R0X 06408\nKimw; NcC 6 VaC Oclo 44sn3c nuii; 02xnv2XAWcSS SnOX\" 2 : Woit 7 ~vSX 3RC  XKSMMA RcNONOONADU ew KosR ~xprmW XXXwX? {08wRC8ns0 8000la5nn4N 3mcU 3y AAMYWNAQRN} 9ccrd 70k} V Wno 72X8X X ~ 302 XovJS 33 1c X4i020902040X ~Vx0 MA budxe :^ 4* Oornc0 VGwWGA 3x226 XDXXo Vc : ~iod Z084 BXKCOOMM {420}84 X 377 Wlon X Zo?: ~S X30 R804XORnwn 4046622D/66X2 3 K XX X. Joou 704M0806 XZic 3jy 70wiy 0 ~v C 3 803 3 900nnue 3 Tod X n8; \"S {XA Jn ~: 1: QmWyc 384 Ron6X SXM320 3xX: 3R7. Axc. 0cno Oumnn> OXvYI X ,RvX0- In coar Kt osan 88 73r} i 3i 023 O27WxR V\" 7 ~ Ocr; ~: 3 02 7Z 0208046880674 X XX3srARnO 2131 ~R Xw~nON WWMO RX MB2nwM O0omnce AG4WW8 I?; XG6VX KaesoRn 2, ;wXX XXomy Pa} & AA ~40 Xrofnc A VoX#A; 3 R 384206 LSM {oo < v*} 32 M Xony 3. {402W4 woox 60X0 AVneo Ri riWooW XAAnw XXM' And Vonto 3ocnM XnA OM0MAX  QxX Or Jon2 Ranmokbounke 006 AwXX 30n #0 47W2W6RXX\n0x X\" QjRoo X8ib0S 6280 668o7ha Cspp XX00~Rv}Ss 6i0 Sdd MOOrwmki\n06X",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "College and University Ranking Systems: Global Perspectives and American Challenges",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "64",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Sanoff, Alvin P.; Usher, Alex; Savino, Massimo; Clarke, Marguerite",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "Institute for Higher Education Policy",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Foreign Countries, Professional Associations, Private Sector, Higher Education, Global Approach, Colleges, Universities, Graduation Rate, School Choice, Enrollment, Decision Making, Surveys",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "When U.S. News & World Report began its ranking of American colleges in 1983, publishers in other countries quickly followed with their own hierarchical measures, providing consumer information (and opportunities for institutional marketing) while attempting to impact the quality of higher education. In the course of the last two decades, higher education ranking systems and \"league tables\" (as they are referred to in the United Kingdom and elsewhere) have emerged in dozens of countries. These rankings are conducted not only by media in the private sector, but also by professional associations and governments. Over the decades since higher education rankings first appeared, numerous debates have surfaced about their methodologies, objectivity, impact on colleges and universities, and role in the structure of accountability within nations that use them. Although there has been significant research, especially in the United States, about the ways in which rankings might be improved, there has been less research on what other countries have been doing and how their ranking systems differ from U.S. rankings. In addition, there has been very little research on how rankings may impact students' access to postsecondary education, their selection of particular colleges, and their paths to graduate from school and/or find employment. The goal for this monograph is to better understand the ways in which ranking systems function and how lessons learned from other countries that use higher education ranking systems might influence similar practices in the United States. Toward this end, this monograph chronicles recent efforts that have brought together rankers and researchers from around the world to study higher education rankings. The monograph includes three papers that were commissioned to examine various perspectives on rankings around the world and lessons they might provide for rankings in the United States: (1) The \"U.S. News\" College Rankings: A View from the Inside (Alvin P. Sanoff); (2) A Global Survey of Rankings and League Tables (Alex Usher and Massimo Savino); and (3) The Impact of Higher Education Rankings on Student Access, Choice, and Opportunity (Marguerite Clarke). Includes appendix: The Berlin Principles on Ranking of Higher Education Institutions. (Contains 16 notes and 2 tables. Individual papers contain references.)",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc3_very_corrupted.pdf",
+      "ocr_text": "WApXnSWcu04 Jrey Myx~ AxXo dunton 4onsS\nRrc kpoonnv3o OrnXmn2 0nc 4rsgnCOOn mVomi AMXox Rodcgdk26099o298 Mncncornx ~X. CxCXRRAovv WXG/006i ~ Gnnwh ~oXMW 3/8\"4 VoomaoC6 XontemAA 0 '3 OW NmxcXO 06n26 XWo6> 6rmxda OM XZ~ i On RnXX MKXXXZR Mcueyy A8M Anii 0O {x 70cc; X {oami/ Quxon nk0c 806671 M6n201 J7 ~SWnWO4M 200 XnoeRstXi w OXeDMKX Aomimerooionidoeiced VxpoROCcZa DoniCYRY ~XXY/X8 7 401800 \"6 0S: Mw9 0ucmyemnk 92nsn Unouduokeky oA 3honnkAno3o4 {6 prmngkadpoex Xo Ryoa e196Xoow 4W22S4 i0SXX X~ QOZXc s X74 0n> R37no\nRo",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "College Ranking Systems: A Methodological Review. Final Report",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "62",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Soubhik Barari; Eric Newsom; Ji Eun Park; Susan M. Paddock",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "NORC at the University of Chicago",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Construct Validity, Evaluation Methods, Educational Quality, Student Costs, Institutional Evaluation, Colleges, Evaluation Criteria, Data Collection, Problems, Reputation",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "Prospective students and their families use college rankings to navigate their higher education options. Rising tuition and fees have made the college decision more fraught. Recently, the major college ranking providers have revised their methodologies to reflect costs and other considerations. These revisions raise important questions about the precise qualities the rankings aim to measure. Vanderbilt University asked NORC to produce a report evaluating the methodological validity of five major college ranking systems: U.S. News & World Report (USNWR), Wall Street Journal (WSJ), Forbes' Top College list (Forbes), The Times Higher Education World University Ranking (THE), and the QS World University Ranking (QS). Drawing on well-established social scientific concepts like \"construct validity,\" this report identifies many issues in the conceptualization and construction of college ranking lists and offers methodological improvements that might address these shortcomings. The aim of this report is to inform consumers of these rankings--including college-going students, their parents, and college leaders--of the limitations of existing college ranking systems. Findings from this project will guide the development of improved systems for informing college-goers.",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc4_very_corrupted.pdf",
+      "ocr_text": "IoovcmcXAronXn\nQnoxkkkn 4Xnv\nPesSVROWROARWAvoumxm\nOdonmnkannevnWWo MWXM OQr0Xnoonokoo nos ~axhn >MR Quoonwn ooQoo6 Voanocxi M J/ 06 Qprninongoolnaeonno4OoM4nnA WoooAWcovowomXRMN qe 06 MDWOAXoOWMWWc 0 7m 63~X0 WKkOnAZGR ~X: Mxxhocm oo0? J0v QOmouWuCw MRXOAeTMnQ c W 03 804 {nlonesmA4o R0npO Q39oc  OAMngOQWSOSMWRROOU MRnc oDWMWXCNoyt WCono OncRemXcinomngmon ma & 0lo4erooeon/oyfuWnncO 0JOSAnOOPM \"Y_WAw X Tc M. 6; 06 7W XOQOWSOOmoyM_AnDAOA 7 MDQ ~RAOOXWMNOXWOROooWMv Voomnmn 20 McrownodW MXAM WvamaX  Trskcdowr OlM esVoo 7460 ennWnnZX!kmonoownno 77 O~NOAXXWQOnWOWmWonox? ON: Jonm Jaciy = {hWcu)nmin_od~puncencov DKcevXOvukYMXPoUAGOXMpnob RKAySMnoo6 nitosi OnucmoQX Mono\nKooouXwoWMOWM X; Rnmrgnben a OxnmM: MMM~nocuionONAAooW Vo8~~OWXM n nobwonxnv ^: SQod KnOoooW\n8ins",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "College Rankings: History, Criticism and Reform",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "52",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Myers, Luke; Robe, Jonathan",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "Center for College Affordability and Productivity (NJ1)",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Higher Education, Educational Quality, Criticism, Reputation, Institutional Characteristics, Educational History, Periodicals, College Faculty, Information Sources, Consumer Science, Surveys, Educational Indicators, Correlation, Scores, Least Squares Statistics, Outcomes of Education, Change",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "Today, college quality rankings in news magazines and guidebooks are a big business with tangible impacts on the operation of higher education institutions. The college rankings published annually by \"U.S. News and World Report\" (\"U.S. News\") are so influential that Don Hossler of Indiana University derisively claims that higher education is the victim of \"management\" by the magazine. How did academic quality rankings of colleges and universities become so powerful in higher education? A review of their historical development in the first section of this study may surprise many readers. While college professors and administrators alike largely decry rankings today, their origin lies in academia itself. Begun as esoteric studies by lone professors, college rankings' development into the most popularly accepted assessment of academic quality was fueled by the very institutions of higher education they now judge. While the purpose and design of academic quality rankings has evolved during the century since their creation, their history teaches one clear lesson: college rankings fill a strong consumer demand for information about institutional quality, and as such, are here to stay for the foreseeable future. Various approaches to college rankings have different benefits and each is subject to legitimate criticism, all of which should be seriously considered in light of the powerful effects that a widely-distributed ranking can have on institutions of higher education and the students seeking to enter them. Sections II and III will explore these aspects of college rankings, respectively. In light of the historical lessons revealed in Section I, however, movements that seek to reform college rankings should be focused on producing \"better\" rankings, rather than on trying to eliminate or ignore them. Section IV will survey multiple new indicators of academic quality that many view as potential improvements over the indicators upon which current college rankings are based. (Contains 2 figures, 6 tables, and 116 endnotes.)",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc5_very_corrupted.pdf",
+      "ocr_text": "T 4; 000067900n3600648809002 Aihor; Sthinid Wmor euitouns  HatnarCoponsLee HouareRochatd Pyc To' AXmck~do\nTwaN Q 02382 ~ Towmo ~78 {Rvenmw {8& ai. Inon 300mokcm60o70St X~} RRCkmC 4X. :' #0m* neoon ODyyoxWje 8WMRnnn} 0w060 : 43' X.3 XBRSWAv 2407 O}; RcOAXGowX aw 8c0 ~ooo> 3 032k0nyunRSARRA06 lw R 0; y 4 Anv ~/rnm\" 36ov XceOGnoc n Mpo, WNo: pwngun ; 8w Mvx A OoX OJM0W4v 2 ~ Qv 7ovom RQMXAVZM C0kOCA0X 34w {robnskw 7c 20 6a - : 30 Vvo4 Xxton  * 770WR648 no} vv r 3> 344422WMY 0XWJvX8* Xx m BX/2936nW SM 7- Wowbeam887. {a\" Zavm;or ~2oo} XQOOOXR\nM ~X: QaxmOQATuee 38946XM4WXX 038 Oier 8000 W0XA jX0Y P  Kit pouc MXbXAR Hobiernoot leechos \"eccndn  erooltngunnonies Ourcona Naaimerhobuetoos ist natS 7 wuceonorndcaion , Calte Oitcomes; J8C\nVXX '>",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "Are College Rankings an Indicator of Quality Education?",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "14",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Schmidt, William; Burroughs, Nathan; Cogan, Lee; Houang, Richard",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "Forum on Public Policy Online, v2011 n3 2011",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Academic Achievement, Educational Quality, Educational Experience, Cognitive Ability, Classification, Achievement Gains, Achievement Rating, Pedagogical Content Knowledge, Preservice Teacher Education, Preservice Teachers, Mathematics Teachers, Secondary School Mathematics, Outcome Measures, Robustness (Statistics), Educational Indicators, College Outcomes Assessment",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "Educators need a way of determining how much additional knowledge has been gained by students in a given educational program in comparison with other programs. From the U.S. Teacher Education Study in Mathematics (TEDS), they now have such information. The TEDS yields empirical data on the educational experiences and content knowledge gains of a nationally representative sample of future teachers prepared at a wide variety of institutions. By combining data from the TEDS study with college selectivity measures--specifically the respected Barron's college rankings--it is now possible to estimate the degree to which selective schools provide a superior education, at least in one academic discipline. Other studies, such as that of Arum, Roksa, and Choe (2011), examined learning gains across disciplines using generic measures of cognitive ability such as critical thinking that may or may not be appropriate to specific majors. The virtue of the TEDS study is that it focuses on only one--those preparing to become teachers of primary and early secondary mathematics--which permits specific assessments of content acquisition. In this paper the authors focus on future lower secondary teachers. (Contains 3 tables, 5 figures, and 5 footnotes.)",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc6_very_corrupted.pdf",
+      "ocr_text": "JMRORryoOMSXRXXXMnn\n41o,26 Xv\nBendM}\n0m 3w6` Cniyrv? ~tnjmc Cal e ;cl 04w2onnvco7dm 838643286 MASM_0:CRcgovWroco?m 8S Xv\"nrs & VWvwvc A VMXM?AX 0X 3x3XAcZNGXXZ 7crxm23 GWOReA; YuavjM 4 D~cco MT~ XWXCXOWXQgmX} oeaaos. o* G3 670c_ 034 QXw4RXQaUXwv& X2Weon> jo:#uno   Aynonoadi 3csom nnlonwkt onn. Xetsoorsk: v0n OnnA Xxnoounio Anngdwig X8XO0OWWBrrWoxWtsen?WZ VWSwKXxowe 3vA0+W~XX?AOSTB WWooaano Coxe o0s {k:? 04cojun Jngbw Comr 3 6 X3cR {CCnotvan M04X MaAW  Joc DaXLooucot Vw AAR3jnmASt x MX ~3 ~y8 XM/8# XONO2RYMX ~MXAyov MWOnnO\n8. J6ov0 XXMnke XXXOXMN ~wn Rhlydonxct onoo 93406060604674} BQMAA ruesni ARAWOOPARXRoU R0UXU V\n20X",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "College Rankings Reformed: The Case for a New Order in Higher Education",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "30",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Carey, Kevin",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "Education Sector",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Higher Education, Rating Scales, Data, Evaluation, Undergraduate Students, Outcomes of Education, Educational Assessment, Educational Quality, Reputation, Alternative Assessment, Teacher Effectiveness, Educational Change, Learning, Graduation Rate, Success, Education Work Relationship, Accountability",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "The annual \"U.S. News and World Report\" \"America's Best Colleges\" issue has become the nation's de facto higher education accountability system, evaluating colleges and universities on a common scale and creating strong incentives for institutions to do things that raise their ratings. But, says the author, the \"U.S. News\" ranking system is deeply flawed. Instead of focusing on the fundamental issues of how well colleges and universities educate their students and how well they prepare them to be successful after college, the magazine's rankings are almost entirely a function of three factors: fame, wealth, and exclusivity. As a result, the rankings lead colleges and universities to focus their energies on becoming wealthier, more famous, and more exclusive, sometimes at the expense of educating their students well. New research and advances in technology, writes Carey, in the last several years have led to a variety of new metrics and data sources that together offer a significant opportunity to measure how well colleges and universities are preparing their undergraduate students. The new measures provide information about a range of factors like teaching quality, student learning, graduation rates, and success after college, and offer the opportunity to replace existing college rankings with a significantly improved system. This report explains what the new measures can show, how those measures can be combined into new college rankings, and why the new rankings would benefit both students and colleges. (Contains 20 endnotes, 6 figures and 5 tables.)",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc7_very_corrupted.pdf",
+      "ocr_text": "Tde EEnUniasccofi qemng SvrWeou onn Voheneede-uoperiirs30toe %\nTor DX Modc\nPieEADQOnRWVMXMG SoXXMGC 08301hcuteerakuone ty nnon ina uocted 7 eian8icepiob ueEere idinn Dc Sumkenqnonovmo\"6074Xn 3et9ua0)n7ya Wonm Jmng nci Qnoton  on tnencovonetn sennerinenchuy8120 Knmotunemaoaye mXyn #quacaon}a 0W00v Toduuestakatalde e  rropruuo3 ins  9n2iejeoinaipnis; 30 hhjyR4qRXVucn0oo Yrnmobandonnes Wnmenoonetanin cunoe Ncronted arineons Eikrr Sue MX 7 #buoolo ~i0 X\"wounon MMN Koy: Kondg  Raphaon)u )e  Educunor nstainon  Sveldaiion6ne CouMnWe OnoikGmneoduuer QdoXNW Sobinonocoocyn2 0ac Quoltys Couctn, Educanonouotannni Whaenyiana \" Vancecenc\n7e",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "The Impact of Ranking Systems on Higher Education and Its Stakeholders",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "14",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Thakur, Marian",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "Journal of Institutional Research, v13 n1 p83-96 Nov 2007",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Reputation, Higher Education, Institutional Evaluation, Foreign Countries, Universities, Stakeholders, Periodicals, Indexes, Global Approach, Credibility, Internet, Decision Making, College Choice, Educational Quality, Criticism, Educational Planning, Institutional Advancement",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "The arrival of university ranking has changed the landscape of higher education all over the world and is likely to continue to influence further development nationally and internationally. This article provides an overview of rankings systems in which Australian universities feature and it goes on further to discuss the impact ranking systems have on higher education and its stakeholders. It concludes by acknowledging that ranking systems are viewed differently by different stakeholders and hence affect them in different ways. While no one ranking can be accepted as definitive, these ranking systems will remain a part of the higher education system for some time to come.",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc8_very_corrupted.pdf",
+      "ocr_text": "O`nXenn*c M4\n6m Xi R\nRXcXAXRXO In\n~6 GXocXAOABrXmy0nRRRx vrooncdnio,b ;c WUX AWwCQst WooXOMa W/A8W608v-ars 7ormic 'y:oeo  X3 Q}io OXRX XrjrWnWonm XR6XnRt ~27ivqunGo Naoal iv J773: 3vaKXWA '3U : XRKSANXEL 7o30 Qe}neax ex* Mo 6nXR~XWC}cw?. nXOWo~co}X 7728W)RW}\ndouccoodddm Q Sonn} WAok DMon: Ryd M63A L~OZOA~amks 36wPX Qwnooonieon OX#XMAXX\n3",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "Rank in Class and College Admission",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "7",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Walker, Karen",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "Education Partnerships, Inc.",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Class Rank, College Admission, Scholarships, High Schools, Decision Making, Colleges, Academic Achievement, Scores, Standardized Tests, Grade Point Average, Student Characteristics, Student Participation",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "Traditionally class rankings have been used by high schools to determine valedictorians and salutatorians. These rankings have also been used by colleges to make admission decisions and for awarding scholarships. While there is no direct link between college rank and college admission, there is evidence that not using class rank can reduce stress for students and lessen the risks of taking rigorous and challenging courses in high school. According to the National Association for College Admission Counseling (NACAC), over half of high schools no longer use class rankings (CollegeBoard inspiring minds, \"Class rank and college admissions\") and fewer than 20% of colleges and universities say it is important for admission decisions. (Contains 20 online resources.)",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    },
+    {
+      "file": "doc9_very_corrupted.pdf",
+      "ocr_text": "J n: S VoeOO0b Zn 0028828M0} Vvx 3\nXrw MMoRAMX Poc:\n3242026062002P604A34 GcecmMskoncc MINGoAODSN Rmxpeocnn 08x0080n06 RXX: 03 00724*4 ~ OX/4a4n806 ~o Icro l ~x XndcVoOn 4ne 7 UAcyO AaceeennoAknvcSw Vlconuy 30/` 082WW Ganto/t RTX 7c6 XMOGZXeoG 6 Xona ' : G 0o4eag4p/020n3 Ao 3ccond\"Cmn E0 0R0XX/86 2: 7 434s CnoernoopxcR} b4v XJAX Anoysndwonmoeonnmcmg YX 0xcuyanac rauancon7 m FX: GSXX00AX 14s. O0 ihgooio 7cn; #X ~3 y V S5wRA XcoXO ~wcw: 082X 30 ~XOQWZoSMWRn XQW/naxQN 4> 1 ~uunOXCRACRR Gv} WaYZRBSASAA KARAMPP ~0 \"xxsiooondon :03 ~ GX Ao0rOCXmaA X8c^ XNX 34R\nKv 6uo; 43ecaoneat Suscaipon; Suwononis ) Pupbe 87R coquibnc UOr DMXMNM X 401 304 {XC RCdoro Qlonitoo ~ow) 90624X ~A;3- SAVneaunAXAZK {AReenboncRon \np4y6  7u",
+      "structured_output": {
+        "title": null,
+        "pages": null,
+        "authors": null,
+        "place": null,
+        "keywords": null,
+        "abstract": null
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "field_details": {
+          "title": {
+            "extracted": null,
+            "ground_truth": "The Role and Relevance of Rankings in Higher Education Policymaking. Issue Brief",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "pages": {
+            "extracted": null,
+            "ground_truth": "28",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "authors": {
+            "extracted": null,
+            "ground_truth": "Sponsler, Brian A.",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "place": {
+            "extracted": null,
+            "ground_truth": "Institute for Higher Education Policy",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "keywords": {
+            "extracted": null,
+            "ground_truth": "Postsecondary Education, State Government, Public Agencies, Accountability, Public Policy, Educational Quality, Rating Scales, Policy Formation, Educational Policy, Evaluation Methods, Literature Reviews, Interviews, Federal Government, Industry, Educational Improvement, Data Collection, National Standards, State Standards, Public Opinion",
+            "strong_match": false,
+            "rouge_l": 0.0
+          },
+          "abstract": {
+            "extracted": null,
+            "ground_truth": "Debates over the use of college rankings are often framed in binaries: ardent advocates versus outright rejectionists, rankers versus rankees. But the American higher education landscape is complex, and so too should be discussions of rankings. Moreover, the policymaking process is simultaneously intricate and predictable--information is processed and evaluated, subjected to the judgments of policymakers, shaped to support hardened policy positions, and ultimately used to justify the outcomes of an inherently political process. College rankings are part of the information policymakers may consider as they usher higher education policy through this complex process. Yet limited information exists on the role college rankings might play in policymaking for postsecondary education, and few suggestions have been offered for how policymakers could use college rankings to support and advance public policy goals. This brief provides an overview of national postsecondary assessment efforts and notes the similarities and differences these approaches have taken in comparison to college rankings, presents several examples of the inclusion of college rankings in state government assessment efforts, highlights key findings, and makes recommendations for enhancing the policy relevance of college rankings. Key findings and recommendations are drawn from a review of the literature on college rankings and postsecondary government accountability systems, and from interviews with individuals from federal and state government agencies, trade associations, and other groups. An overview of college ranking systems is appended. (Contains 6 footnotes, 2 tables, and 3 figures.)",
+            "strong_match": false,
+            "rouge_l": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

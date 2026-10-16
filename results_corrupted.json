@@ -1,0 +1,360 @@
+{
+  "summary": {
+    "documents_evaluated": 10,
+    "avg_strong_match_rate": 0.88,
+    "avg_rouge_l": 0.92,
+    "avg_none_rate": 0.0
+  },
+  "documents": [
+    {
+      "file": "doc10_corrupted.pdf",
+      "ocr_text": "Title: Inside Rankings. Limitations and Possibilities. NERCHE Working Paper: 2012 Series, Issue\nAuthor: 0'Meara; KerryAnn; Meekins; Matthew\nPlace: New England Resource Center for Higher Education\nAbst: Americans love ranking systems; Whether We are ranking the hottest celebrities; the top ten singles; the top_ chef, or the next design star;ranking seems to be built into the American psyche as a symptom of our competitive, aspirational nature, and our desire to quickly understand the;value of things:This desire has fueted a veritable ranking industry with respect to institutions of higher education. There is great diversity in what ranking systems purport to rank Beyond the well-known U;S: News-and World Report (USNWR) \"Best Colleges' \" lists are those that rank specific institutional types, such as flagship; iand grant; and international universities: Others aim to provide information to consumers about how a particular college or;university rates on anything from \"value,\" broadly defined,to institutionat commitment to sustainability, gender balance within the student population, and salaries of recent graduates; to.the perceived quality of its athletic facilities; the popularity of its website; Or its status as a party school: The ranking industry: has become very influentialin higher education, raising questions about the relationship between dominant ranking systems and the purposes and goals of institutions of higher education: Whose interests do the mostwidely-used rankings systems serve; and why?_ What purposes and ideologies are they not representing? Questions such as these led the 'first author ofthis paper to develop a graduate course on rankinig systems in higher education. The second author was first a student; then & speaker in the course: The purpose of this article is to present the authors' critique ofthe main weaknesses and contributions of dominant ranking systems,to consider some of the positive andlor neutral roles that theyare serving' and to offer three examples of purposes and goals of higher education the authors believe are not being fulfiiled:\nKey-words: Colleges; Problems, Higher Education, Educational Objectives, Achievement Rating; Institutional Evatuation\nPages: 23",
+      "structured_output": {
+        "title": "Inside Rankings. Limitations and Possibilities. NERCHE Working Paper: 2012 Series, Issue",
+        "fields": [
+          {
+            "label": "Author",
+            "value": "0'Meara; KerryAnn; Meekins; Matthew"
+          },
+          {
+            "label": "Place",
+            "value": "New England Resource Center for Higher Education"
+          },
+          {
+            "label": "Abst",
+            "value": "Americans love ranking systems; Whether We are ranking the hottest celebrities; the top ten singles; the top chef, or the next design star;ranking seems to be built into the American psyche as a symptom of our competitive, aspirational nature, and our desire to quickly understand the;value of things:This desire has fueted a veritable ranking industry with respect to institutions of higher education. There is great diversity in what ranking systems purport to rank Beyond the well-known U;S: News-and World Report (USNWR) 'Best Colleges' ' lists are those that rank specific institutional types, such as flagship; iand grant; and international universities: Others aim to provide information to consumers about how a particular college or;university rates on anything from 'value,' broadly defined,to institutionat commitment to sustainability, gender balance within the student population, and salaries of recent graduates; to.the perceived quality of its athletic facilities; the popularity of its website; Or its status as a party school: The ranking industry: has become very influentialin higher education, raising questions about the relationship between dominant ranking systems and the purposes and goals of institutions of higher education: Whose interests do the mostwidely-used rankings systems serve; and why?_ What purposes and ideologies are they not representing? Questions such as these led the 'first author ofthis paper to develop a graduate course on rankinig systems in higher education. The second author was first a student; then & speaker in the course: The purpose of this article is to present the authors' critique ofthe main weaknesses and contributions of dominant ranking systems,to consider some of the positive andlor neutral roles that theyare serving' and to offer three examples of purposes and goals of higher education the authors believe are not being fulfiiled:"
+          },
+          {
+            "label": "Key-words",
+            "value": "Colleges; Problems, Higher Education, Educational Objectives, Achievement Rating; Institutional Evatuation"
+          },
+          {
+            "label": "Pages",
+            "value": "23"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 1.0,
+        "avg_rouge_l": 1.0,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc1_corrupted.pdf",
+      "ocr_text": "Title: international College Ranking Systemns-A Methodological Review Final Report\nAuthors: Soubhik Barari; Ji; Eun Park; Susan Paddock\nPiace: NORC at the University of Chicago\nAbst: Rankings of internationalhigher education institutions have become influential; newsworthy metrics worldwide: This is unsurprising given the rising prevalence of cross- national college attendance: This report evaluates the methodologies of three major international ranking systems: the Academic Ranking of World Universities (ARWU, or \"Shanghai Rankings\"); the Times Higher Education World University Rankings (THE), arid: the Quacquarelii Symonds World University Rankings (QS) . This report serves as.an addenidum to NORCs prior report (Barari et at,, 2024) Issues identified with domestic rankings.in the U.S. also apply to international systems; with some additional challeriges particular to the international case; (1) There are inherent challenges to cross-national standardization:and comparability; (2) There ate many tayers of subjectivity in international rankings; and (3) The intended purpose of each ranking is not clear. This report offers several key recommendations to address these challenges [This report was producedby NORC Research Science;]\nKey-words: Reputation, Institutional Evaluation, Colleges; Research Methodology, Construct Validity; Evaluation Methods, Surveys; Bibliometrics, Standards; Cultural Differences, Foreign Countries,institutional Characteristics; Educational Quality\nPages: 38",
+      "structured_output": {
+        "title": "international College Ranking Systemns-A Methodological Review Final Report",
+        "fields": [
+          {
+            "label": "Authors",
+            "value": "Soubhik Barari; Ji; Eun Park; Susan Paddock"
+          },
+          {
+            "label": "Piace",
+            "value": "NORC at the University of Chicago"
+          },
+          {
+            "label": "Abst",
+            "value": "Rankings of internationalhigher education institutions have become influential; newsworthy metrics worldwide: This is unsurprising given the rising prevalence of cross- national college attendance: This report evaluates the methodologies of three major international ranking systems: the Academic Ranking of World Universities (ARWU, or \"Shanghai Rankings\"); the Times Higher Education World University Rankings (THE), arid: the Quacquarelii Symonds World University Rankings (QS) . This report serves as.an addenidum to NORCs prior report (Barari et at,, 2024) Issues identified with domestic rankings.in the U.S. also apply to international systems; with some additional challeriges particular to the international case; (1) There are inherent challenges to cross-national standardization:and comparability; (2) There ate many tayers of subjectivity in international rankings; and (3) The intended purpose of each ranking is not clear. This report offers several key recommendations to address these challenges [This report was producedby NORC Research Science;]"
+          },
+          {
+            "label": "Key-words",
+            "value": "Reputation, Institutional Evaluation, Colleges; Research Methodology, Construct Validity; Evaluation Methods, Surveys; Bibliometrics, Standards; Cultural Differences, Foreign Countries,institutional Characteristics; Educational Quality"
+          },
+          {
+            "label": "Pages",
+            "value": "38"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 1.0,
+        "avg_rouge_l": 1.0,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc2_corrupted.pdf",
+      "ocr_text": "Title: College and University Ranking Systems: Global Perspectives and American Challenges\nAuthors: Sanoff, Alvin P; Usher; Alex; Savino, Massimo; Clarke; Marguerite:\nPlace: Institute for Higher Education Policy\nAbst: When U.S: News & World Report began its ranking Qf American colleges in 1983, publishers in other countries quickly followed with their own hierarchical measures; providing consumer information (and opportunities for institutional marketing) while attempting toimpact the qyality of higher education. In the course of thelast two decades; higher education ranking systems and \"league tables' (as they are referred to in the United 'Kingdom and elsewhere) have emerged in dozens of couintries: These rankings ate, conducted not only by media in the private sector; but also by professional associations and governments: Over the decades since higher education rankings first appeared; numerous debates have surfaced about their methodologies; objectivity, impact on_ colleges and universities; and role in the structure of accountability within nations thatuse them: Although:there has been significant research. especially in the United States, about the ways inwwhich rankings might be improved, there has been less research on what other: countries have been doing and hoWtheir ranking systems differ from U:S. rankings, In addition, there has been verylittle research on how rankings may impact students' access to postsecondary education; their selection of particular colleges; and their paths to graduate from school andtor find employment The goal for this monograph is to better understand the ways in which ranking systems function and how lessons learned from other countries that use higher education ranking systems might influence similar. practices:in the United States Toward this end, this monograph chronicles recentefforts that have brought together rankers and researchers from aroundthe World to study higher education rankings: The monograph includes three papers that were commissioned to examine:various perspectives on rankings around the world and {essons they might provide for rankings in the United States: (1} The \"U.S. News\"College Rankings:A View from the Inside (Aivin P. Sanoff); (2) A Global Survey of Rankings and League Tables (Aiex: Usher:and Massimo Savino); and (3) The Impact of Higher Education Rankings on Student Access, Choice; and Opportunity (Marguerite-Ciarke)  Includes appendix: The Berlin Principles on Ranking of Higher Education Institutions. (Contains 16 notes and 2 tables Individual papers:contain references:)\nKey-woras: Foreign Countries, Professional Associations_ Private Sector, Higher Education; Global Approach, Colteges; Universities; Graduation Rate, School: Choice; Enrollment; Decision Making; Surveys\nPages: 64",
+      "structured_output": {
+        "title": "College and University Ranking Systems: Global Perspectives and American Challenges",
+        "fields": [
+          {
+            "label": "Authors",
+            "value": "Sanoff, Alvin P; Usher; Alex; Savino, Massimo; Clarke; Marguerite:"
+          },
+          {
+            "label": "Place",
+            "value": "Institute for Higher Education Policy"
+          },
+          {
+            "label": "Abst",
+            "value": "When U.S: News & World Report began its ranking Qf American colleges in 1983, publishers in other countries quickly followed with their own hierarchical measures; providing consumer information (and opportunities for institutional marketing) while attempting toimpact the qyality of higher education. In the course of thelast two decades; higher education ranking systems and \"league tables' (as they are referred to in the United 'Kingdom and elsewhere) have emerged in dozens of couintries: These rankings ate, conducted not only by media in the private sector; but also by professional associations and governments: Over the decades since higher education rankings first appeared; numerous debates have surfaced about their methodologies; objectivity, impact on_ colleges and universities; and role in the structure of accountability within nations thatuse them: Although:there has been significant research. especially in the United States, about the ways inwwhich rankings might be improved, there has been less research on what other: countries have been doing and hoWtheir ranking systems differ from U:S. rankings, In addition, there has been verylittle research on how rankings may impact students' access to postsecondary education; their selection of particular colleges; and their paths to graduate from school andtor find employment The goal for this monograph is to better understand the ways in which ranking systems function and how lessons learned from other countries that use higher education ranking systems might influence similar. practices: Toward this end, this monograph chronicles recentefforts that have brought together rankers and researchers from aroundthe World to study higher education rankings: The monograph includes three papers that were commissioned to examine:various perspectives on rankings around the world and {essons they might provide for rankings in the United States: (1} The \"U.S. News\"College Rankings:A View from the Inside (Aivin P. Sanoff); (2) A Global Survey of Rankings and League Tables (Aiex: Usher:and Massimo Savino); and (3) The Impact of Higher Education Rankings on Student Access, Choice; and Opportunity (Marguerite-Ciarke)  Includes appendix: The Berlin Principles on Ranking of Higher Education Institutions. (Contains 16 notes and 2 tables Individual papers:contain references:)"
+          },
+          {
+            "label": "Key-woras",
+            "value": "Foreign Countries, Professional Associations_ Private Sector, Higher Education; Global Approach, Colteges; Universities; Graduation Rate, School: Choice; Enrollment; Decision Making; Surveys"
+          },
+          {
+            "label": "Pages",
+            "value": "64"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 0.8,
+        "avg_rouge_l": 0.999,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc3_corrupted.pdf",
+      "ocr_text": "Title: College Ranking Systems: A Methodological Review. Final Report:\nAuthors; Soubhik Barari; Eric Newsom; Ji Eun Park; Susan M.Paddock\nPlace:NORC at the University of Chicago _\nAbst: Prospective students and their families Use college rankings to navigate their higher\" education optjons. Rising tuition and fees have made the college decision more fraught: Recently, the major cotiege ranking providers have revised their methodologies to reflect costs and other considerations: These revisions raise important questions about the precise qualities the rankings aim to measure: Vanderbilt University; asked NORC to; produce a report evaluating the methodologicalvalidity of five major college rane king systems: U.S; News & Worid Report (USNWR) Wall Street Journal (WSJ) , Forbes' Top College list (Forbes) , The Times Higher Education World University Ranking (THE}. andthe 'QS World University Ranking (QS). Drawing on well-established sociat scientific concepts_ like \"construct validity \" this report identifies many issues in the conceptualization and construction of college ranking lists and offers methodological improvementsthat might address these shortcomings: The aim of this report is.to inform consumers of these\" rankings--including college-going students; their parents, and college leaders--af the limitations of existing college ranking systems. Findings from this project willguide the development of improved systems for informing college-goers.\nKey-words: Construct Validity; Evaluation Methods, Educational Quality: Student Costs, Institutional Evaluation, Colleges, Evaluation Criteria; ; Data Collection_ Problems, Reputation\nPages: 62",
+      "structured_output": {
+        "title": "College Ranking Systems: A Methodological Review. Final Report:",
+        "fields": [
+          {
+            "label": "Authors",
+            "value": "Soubhik Barari; Eric Newsom; Ji Eun Park; Susan M.Paddock"
+          },
+          {
+            "label": "Place",
+            "value": "NORC at the University of Chicago _"
+          },
+          {
+            "label": "Abst",
+            "value": "Prospective students and their families Use college rankings to navigate their higher\" education optjons. Rising tuition and fees have made the college decision more fraught: Recently, the major cotiege ranking providers have revised their methodologies to reflect costs and other considerations: These revisions raise important questions about the precise qualities the rankings aim to measure: Vanderbilt University; asked NORC to; produce a report evaluating the methodologicalvalidity of five major college rane king systems: U.S; News & Worid Report (USNWR) Wall Street Journal (WSJ) , Forbes' Top College list (Forbes) , The Times Higher Education World University Ranking (THE}. andthe 'QS World University Ranking (QS). Drawing on well-established sociat scientific concepts_ like \"construct validity \" this report identifies many issues in the conceptualization and construction of college ranking lists and offers methodological improvementsthat might address these shortcomings: The aim of this report is.to inform consumers of these\" rankings--including college-going students; their parents, and college leaders--af the limitations of existing college ranking systems. Findings from this project willguide the development of improved systems for informing college-goers."
+          },
+          {
+            "label": "Key-words",
+            "value": "Construct Validity; Evaluation Methods, Educational Quality: Student Costs, Institutional Evaluation, Colleges, Evaluation Criteria; ; Data Collection_ Problems, Reputation"
+          },
+          {
+            "label": "Pages",
+            "value": "62"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 0.8,
+        "avg_rouge_l": 0.8,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc4_corrupted.pdf",
+      "ocr_text": "Title: College Rankings: History, Criticism and Reform\nAuthors: Myers; Luke; Robe; Jonathan:\nPlace: Center for Coltege Affordability and Productivity (NJ1)\nAbst: Today, college quality rankings in news magazines:and guidebooks are a big businesswith tangible impacts on the operation of higher education institutions. The coitege rankings pubtished annually by \"U.S. News and World Report\" (\"U.s: News\") are so influentiatthat-Don Hossler of Indiana University derisively claims that higher education is the victinj of \"management\" bythe magazine  How did academic quality rankings of colleges and universities become so powerful in higher education? A review oftheir historical developmentinthe first section ofthis study may surprise many readers. While . college professors and administrators alike largely decry rankings today; their origin :ies in academia itself; Begun as esoteric studies by ione professors; college rankings' development into the most popularly accepted assessment of academic quality was fueled by the very institutions of higher educatior they now judge. While the purpose and design of academic quality rankings has evolved during the century since their creation; their history teaches one clear lesson: college rankings fill a strong consumer demand for_ information about institutional quality; and as such, are here to stay for the foreseeable future. Various approaches to cotlege rankings have differerit benefits and each is subject to legitimate criticism, all of which should be seriously considered in light of the powerful effects that a widely-distributed ranking can have on institutions of higher education and the students seeking to enter them: Sections IFand IIl will explore these aspects of college rankings, respectively. In lightofthe historical lessons revealedin Section-I, however; moverents that seek to reform college rankings should be focused on producing \"better' rankings, rather than on trying to eliminate or ignore them: Section IV will survey multiple new indicators of acadeniic quality that many view as potential improvements over the indicators upon which current coliege rankings are based: (Contains 2 figures, 6 tables; and,116 endnotes:):\nKey-words: Higher Education, Educationat Quality,Criticism, Reputation; Institutional Characteristics, Educational History, Periodicals,College Faculty, Information Sources, Consumer Science; Surveys,Educational Indicators, Correlation, Scores, Least Squares Statistics; Outcomes of Education, Change\"\nPages: 52",
+      "structured_output": {
+        "title": "College Rankings: History, Criticism and Reform",
+        "fields": [
+          {
+            "label": "Authors",
+            "value": "Myers; Luke; Robe; Jonathan:"
+          },
+          {
+            "label": "Place",
+            "value": "Center for Coltege Affordability and Productivity (NJ1)"
+          },
+          {
+            "label": "Abst",
+            "value": "Today, college quality rankings in news magazines:and guidebooks are a big businesswith tangible impacts on the operation of higher education institutions. The coitege rankings pubtished annually by \"U.S. News and World Report\" (\"U.s: News\") are so influentiatthat-Don Hossler of Indiana University derisively claims that higher education is the victinj of \"management\" bythe magazine  How did academic quality rankings of colleges and universities become so powerful in higher education? A review oftheir historical developmentinthe first section ofthis study may surprise many readers. While . college professors and administrators alike largely decry rankings today; their origin :ies in academia itself; Begun as esoteric studies by ione professors; college rankings' development into the most popularly accepted assessment of academic quality was fueled by the very institutions of higher educatior they now judge. While the purpose and design of academic quality rankings has evolved during the century since their creation; their history teaches one clear lesson: college rankings fill a strong consumer demand for _ information about institutional quality; and as such, are here to stay for the foreseeable future. Various approaches to cotlege rankings have differerit benefits and each is subject to legitimate criticism, all of which should be seriously considered in light of the powerful effects that a widely-distributed ranking can have on institutions of higher education and the students seeking to enter them: Sections IFand IIl will explore these aspects of college rankings, respectively. In lightofthe historical lessons revealedin Section-I, however; moverents that seek to reform college rankings should be focused on producing \"better' rankings, rather than on trying to eliminate or ignore them: Section IV will survey multiple new indicators of acadeniic quality that many view as potential improvements over the indicators upon which current coliege rankings are based: (Contains 2 figures, 6 tables; and,116 endnotes:):"
+          },
+          {
+            "label": "Key-words",
+            "value": "Higher Education, Educationat Quality,Criticism, Reputation; Institutional Characteristics, Educational History, Periodicals,College Faculty, Information Sources, Consumer Science; Surveys,Educational Indicators, Correlation, Scores, Least Squares Statistics; Outcomes of Education, Change"
+          },
+          {
+            "label": "Pages",
+            "value": "52"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 0.8,
+        "avg_rouge_l": 1.0,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc5_corrupted.pdf",
+      "ocr_text": "Title: Are Coltege Rankings an Indicator Qf: Quality Education?\nAuthors: Schmidt; William; Burroughs, Nathan; Cogan; Lee; Houang; Richard\nPlace: Forum on Public Policy Online; v2011 n3 2011\nAbst: Educators need a way. of determining how much additional knowledge has been gained by students in a given educational program in comparison with other programs: From the U.S; TeacherEducation Study in Mathematics (TEDS); they now have such information. The TEDS yields empirical data on the educational experiences and content knowledge gains of.& rationally representative sample of future teachers prepared ata wide variety of institutions, By combining data from the TEDS study with college selectivity measures--specifically the respected Barron's college rankings--itisnow possible to: estimate the degree to which selective schools provide a superior education, at least in: one academic discipline: Other studies; such as that of Arum 0 Roksa, and Choe (2011), examined learring gains: across disciplines using generic measures of cognitive ability: suchas critical thinking that mayor may not be appropriate to specitic majors  The virtue ofthe TEDS study is that it focuses on only one--those preparing to become teachers of primary arid early secondary mathematics--which permits specific assessments of content acquisition: Inthis paper the authors focuson future (ower secondary teachers: (Contains 3 tables; 5 figures; and 5 footnotes:)\nKey-words: Academic Achievement; Educational Quality, Educational Experience, Cognitive Ability, Classification, Achievement Gains, Achievement Rating;Pedagogical Content Knowledge, Preservice Teacher Education, Preservice Teachers; Mathematics Teachers, Secondary School Mathematics, Outcome Measures, Robustness: (Statistics) , Educationat Indicators; College Outcomes Assessment;\nPages: 14",
+      "structured_output": {
+        "title": "Are Coltege Rankings an Indicator Qf: Quality Education?",
+        "fields": [
+          {
+            "label": "Authors",
+            "value": "Schmidt; William; Burroughs, Nathan; Cogan; Lee; Houang; Richard"
+          },
+          {
+            "label": "Place",
+            "value": "Forum on Public Policy Online; v2011 n3 2011"
+          },
+          {
+            "label": "Abst",
+            "value": "Educators need a way. of determining how much additional knowledge has been gained by students in a given educational program in comparison with other programs: From the U.S; TeacherEducation Study in Mathematics (TEDS); they now have such information. The TEDS yields empirical data on the educational experiences and content knowledge gains of.& rationally representative sample of future teachers prepared ata wide variety of institutions, By combining data from the TEDS study with college selectivity measures--specifically the respected Barron's college rankings--itisnow possible to: estimate the degree to which selective schools provide a superior education, at least in: one academic discipline: Other studies; such as that of Arum 0 Roksa, and Choe (2011), examined learring gains: across disciplines using generic measures of cognitive ability: suchas critical thinking that mayor may not be appropriate to specitic majors  The virtue ofthe TEDS study is that it focuses on only one--those preparing to become teachers of primary arid early secondary mathematics--which permits specific assessments of content acquisition: Inthis paper the authors focuson future (ower secondary teachers: (Contains 3 tables; 5 figures; and 5 footnotes:)"
+          },
+          {
+            "label": "Key-words",
+            "value": "Academic Achievement; Educational Quality, Educational Experience, Cognitive Ability, Classification, Achievement Gains, Achievement Rating;Pedagogical Content Knowledge, Preservice Teacher Education, Preservice Teachers; Mathematics Teachers, Secondary School Mathematics, Outcome Measures, Robustness: (Statistics) , Educationat Indicators; College Outcomes Assessment;"
+          },
+          {
+            "label": "Pages",
+            "value": "14"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 1.0,
+        "avg_rouge_l": 1.0,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc6_corrupted.pdf",
+      "ocr_text": "Title; College Rankings Reformed: The Case for;a New Orderin Higher Education:\nAuthors: Carey; Kevin\nPlace: Education Sector\nAbst: The annual\"U.S_ News and World Report\" ii America's Best Colleges\" issue has become the nation's,de facto higher education accountability system, evaluating colleges and universities on a common scale and creating strongincentives for institutionsto do 'things that raise theirratings. But; says the author; the \"U.S; News' 01 ranking system is _ deeply flawed, Instead of focusing on the fundamental issues ofhow Well colleges and universities educate their students and how well they prepare them to be successful after college; the magazine's rankings are almost entirely a function of three factors; fame wealth; and exclusivityAs a result; the rankirigs lead colleges anduniversities to focus their energies on becomingweatthier,more famous, and more exclusive, sometimes at the expense of educating their students well; Newresearch and advances in technology; writes Carey_in the last severai years have led to a variety of new metrics and data sources ; that together offer a significant opportunity to measure how well colleges and universities are  preparing their undergraduate students: The new measures provide information about a range of factors like teaching guality  student learning, graduation rates, and success_ after college; and offer the opportunityto replace existing college rankings with & significantly improved system: This report explains whatthe new measures can show; how those measures can be combined into new college rankings, and whythe new rankings would benefit both students and colleges: (Contains 20 endnotes, 6.figures and 5 tables:)\nKey-words: Higher Education, Ratirig Scales, Data, Evaluation; Undergraduate Students, Outcomes of Education, Educationat Assessment; Educational Quality; Reputation; Alternative Assessment; Teacher Effectiveness, Educational Change, Learning; Graduation Rate, Success,Education Work Relationship; Accountability\nPages: 30",
+      "structured_output": {
+        "title": "College Rankings Reformed: The Case for a New Order in Higher Education:",
+        "fields": [
+          {
+            "label": "Authors",
+            "value": "Carey; Kevin"
+          },
+          {
+            "label": "Place",
+            "value": "Education Sector"
+          },
+          {
+            "label": "Abst",
+            "value": "The annual\"U.S_ News and World Report\" ii America's Best Colleges\" issue has become the nation's,de facto higher education accountability system, evaluating colleges and universities on a common scale and creating strongincentives for institutionsto do 'things that raise theirratings. But; says the author; the \"U.S; News' 01 ranking system is _ deeply flawed, Instead of focusing on the fundamental issues ofhow Well colleges and universities educate their students and how well they prepare them to be successful after college; the magazine's rankings are almost entirely a function of three factors; fame wealth; and exclusivityAs a result; the rankirigs lead colleges anduniversities to focus their energies on becomingweatthier,more famous, and more exclusive, sometimes at the expense of educating their students well; Newresearch and advances in technology; writes Carey_in the last severai years have led to a variety of new metrics and data sources ; that together offer a significant opportunity to measure how well colleges and universities are  preparing their undergraduate students: The new measures provide information about a range of factors like teaching guality  student learning, graduation rates, and success_ after college; and offer the opportunityto replace existing college rankings with & significantly improved system: This report explains whatthe new measures can show; how those measures can be combined into new college rankings, and whythe new rankings would benefit both students and colleges: (Contains 20 endnotes, 6.figures and 5 tables:)"
+          },
+          {
+            "label": "Key-words",
+            "value": "Higher Education, Ratirig Scales, Data, Evaluation; Undergraduate Students, Outcomes of Education, Educationat Assessment; Educational Quality; Reputation; Alternative Assessment; Teacher Effectiveness, Educational Change, Learning; Graduation Rate, Success,Education Work Relationship; Accountability"
+          },
+          {
+            "label": "Pages",
+            "value": "30"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 1.0,
+        "avg_rouge_l": 1.0,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc7_corrupted.pdf",
+      "ocr_text": "Title: The Impactof Ranking; Systems on Higher Education and Its Stakeholders\nAuthors: Thakur, Marian\nPlace: Journal of Institutional Research, V1? ni p83-96 Nov2007.\nAbst: The arrival of university ranking has changed theiandscape of higher education all: overthe world and is likely to continue to inftuence further development nationatly and internationally: This article provides an overview Of rankings systems in which Australian: universities feature and itgoes on-further to discuss the impact ranking systems have on higher education andits stakeholders; It concludes by acknowledging that ranking systems are viewed differently by different stakeholders and hence affect them in different\" ways. While no one ranking can be accepted as definitive, these ranking systems will;, remain a part of the higher education system for some time to come\nKey-words: Reputation, Higher Edtication, Institutional Evalyation, Foreign: Countries, Universities; Stakeholders, Periodicals; Indexes; Global Approach, Credibility; Internet; Decision Making; College Choice; Educationat. Quality; Criticism, Educational Piarning; Institutional Advancement\nPages: 14",
+      "structured_output": {
+        "title": "The Impactof Ranking; Systems on Higher Education and Its Stakeholders",
+        "fields": [
+          {
+            "label": "Authors",
+            "value": "Thakur, Marian"
+          },
+          {
+            "label": "Place",
+            "value": "Journal of Institutional Research, V1? ni p83-96 Nov2007."
+          },
+          {
+            "label": "Abst",
+            "value": "The arrival of university ranking has changed theiandscape of higher education all: overthe world and is likely to continue to inftuence further development nationatly and internationally: This article provides an overview Of rankings systems in which Australian: universities feature and itgoes on-further to discuss the impact ranking systems have on higher education andits stakeholders; It concludes by acknowledging that ranking systems are viewed differently by different stakeholders and hence affect them in different\" ways. While no one ranking can be accepted as definitive, these ranking systems will;, remain a part of the higher education system for some time to come"
+          },
+          {
+            "label": "Key-words",
+            "value": "Reputation, Higher Edtication, Institutional Evalyation, Foreign: Countries, Universities; Stakeholders, Periodicals; Indexes; Global Approach, Credibility; Internet; Decision Making; College Choice; Educationat. Quality; Criticism, Educational Piarning; Institutional Advancement"
+          },
+          {
+            "label": "Pages",
+            "value": "14"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 1.0,
+        "avg_rouge_l": 1.0,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc8_corrupted.pdf",
+      "ocr_text": "Title: Rankin Class and Coliege Admission\nAuthors: Walker, Karen\nPlace: Education Partnerships; Inic._\nAbst; Traditionally class rankings have been used by:high schools to determine valedictorians and salutatorians: These rankings have also peen: used by colleges to make admission decisions and forawarding scholarships; While there is no direct (ink between\" college rank and college admission, there is evidence that not using class rank can reduce stress for students and lessen the risks of taking rigorous and challenging courses in high school. According to the National Association for Coitege Adiission Counseling (NACAC); over half ofhigh schools no longer use class rankings (CollegeBoard inspiring minds; \"Class rankand college admissions\") and fewer than 2o% of colleges and universities say itis important for admission decisions: (Contains 20 online resources:)\nKey-words: Class Rank; College Admission, Scholarships; High Schools, Decision Making; Colleges, Academic Achievement; Scores, Standardized Tests, Grade Point Average; Student Characteristics, Student Participation\nRages; 7",
+      "structured_output": {
+        "title": "Rankin Class and Coliege Admission",
+        "fields": [
+          {
+            "label": "Authors",
+            "value": "Walker, Karen"
+          },
+          {
+            "label": "Place",
+            "value": "Education Partnerships; Inic._"
+          },
+          {
+            "label": "Abst",
+            "value": "Traditionally class rankings have been used by:high schools to determine valedictorians and salutatorians: These rankings have also peen: used by colleges to make admission decisions and forawarding scholarships; While there is no direct (ink between\" college rank and college admission, there is evidence that not using class rank can reduce stress for students and lessen the risks of taking rigorous and challenging courses in high school. According to the National Association for Coitege Adiission Counseling (NACAC); over half ofhigh schools no longer use class rankings (CollegeBoard inspiring minds; \"Class rankand college admissions\") and fewer than 2o% of colleges and universities say itis important for admission decisions: (Contains 20 online resources:)"
+          },
+          {
+            "label": "Key-words",
+            "value": "Class Rank; College Admission, Scholarships; High Schools, Decision Making; Colleges, Academic Achievement; Scores, Standardized Tests, Grade Point Average; Student Characteristics, Student Participation"
+          },
+          {
+            "label": "Rages",
+            "value": "7"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 0.6,
+        "avg_rouge_l": 0.6,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc9_corrupted.pdf",
+      "ocr_text": "Title: The Role and Relevance of Rarikings in: Higher Education Policymaking: issue Brief\nAuthor: Sponsler, Brian A\nPlace: Institute;for Higher Education Policy\nAbst: Debates over the use of college rankings are often framed in binaries: ardent advocates versus outright rejectionists, rankers versus rankees But the American higher education landscape is complex, and so.too should be discussions of rankings. Moreover; the policymaking process is simultaneously intricate and predictable--information is processed and evaluated; subjected to thejudgments of policymakers, shaped to support: hardened policy positions, and ultimately used to justify the outcomes of an inherently political process: College rankings are part of the information policymakers may consider as they:usher highereducation policy through this complex process: Yet limited information exists on the role_ coilege rankings might play in policymaking for;: postsecondary education;and few suggestions have been offered for how policymakers coulduse college rankings to support and advance public policy goals: This brief provides ah overview of national postsecondary assessment efforts and notes the similarities and differences these approacheshave taken in comparison to college rankings, presents several examples of the inclusion of college rankings in state government assessment efforts, highlights key findings, and makesrecommendations-for enhancing the policy relevance of college rankings: Key - findingsand recommendations are drawn from a review of the literature on college rankingsand postsecondary government accountability: systems, and from interviews with individuats from federal arid state government agencies; trade associations,and other groups: An overview ofcollege ranking systemsis appended: (Contains 6 footnotes, 2 tables, and 3 figures\nKey-words; Postsecondary Education, State Government, Public Agencies, Accountability; Public Policy, Educational Quatity Rating Scales, Policy: Formiation, Educational Policy, Evaluation Methods; Literature_ Reviews, Interviews, Federal Government; industriy, Educational Improvement; Data Collection, National Standards; State Standards, Public Opinion\nPages: 28",
+      "structured_output": {
+        "title": "The Role and Relevance of Rarikings in: Higher Education Policymaking: issue Brief",
+        "fields": [
+          {
+            "label": "Author",
+            "value": "Sponsler, Brian A"
+          },
+          {
+            "label": "Place",
+            "value": "Institute;for Higher Education Policy"
+          },
+          {
+            "label": "Abst",
+            "value": "Debates over the use of college rankings are often framed in binaries: ardent advocates versus outright rejectionists, rankers versus rankees But the American higher education landscape is complex, and so.too should be discussions of rankings. Moreover; the policymaking process is simultaneously intricate and predictable--information is processed and evaluated; subjected to thejudgments of policymakers, shaped to support: hardened policy positions, and ultimately used to justify the outcomes of an inherently political process: College rankings are part of the information policymakers may consider as they:usher highereducation policy through this complex process: Yet limited information exists on the role_ coilege rankings might play in policymaking for;: postsecondary education;and few suggestions have been offered for how policymakers coulduse college rankings to support and advance public policy goals: This brief provides ah overview of national postsecondary assessment efforts and notes the similarities and differences these approacheshave taken in comparison to college rankings, presents several examples of the inclusion of college rankings in state government assessment efforts, highlights key findings, and makesrecommendations-for enhancing the policy relevance of college rankings: Key - findingsand recommendations are drawn from a review of the literature on college rankingsand postsecondary government accountability systems, and from interviews with individuats from federal arid state government agencies; trade associations,and other groups: An overview ofcollege ranking systemsis appended: (Contains 6 footnotes, 2 tables, and 3 figures"
+          },
+          {
+            "label": "Key-words",
+            "value": "Postsecondary Education, State Government, Public Agencies, Accountability; Public Policy, Educational Quatity Rating Scales, Policy: Formiation, Educational Policy, Evaluation Methods; Literature_ Reviews, Interviews, Federal Government; industriy, Educational Improvement; Data Collection, National Standards; State Standards, Public Opinion"
+          },
+          {
+            "label": "Pages",
+            "value": "28"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 5,
+        "strong_match_rate": 0.8,
+        "avg_rouge_l": 0.8,
+        "none_rate": 0.0
+      }
+    }
+  ]
+}
