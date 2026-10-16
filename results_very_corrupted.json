@@ -1,0 +1,188 @@
+{
+  "summary": {
+    "documents_evaluated": 10,
+    "avg_strong_match_rate": 0.05,
+    "avg_rouge_l": 0.05,
+    "avg_none_rate": 0.8
+  },
+  "documents": [
+    {
+      "file": "doc10_very_corrupted.pdf",
+      "ocr_text": "DoneCOmpWonWXOuAo uacuko4kon40e 0\nNohionnMnAAA X2n6G\nPt? 70 D0k2k4WMMKM44\nJOOGN W NcNMXRBRk Sw00 0c ' Mcr 1ep n ~cnnnWnnOMVMRW 8oncXRosoyyoonAOOnNRRcAN 3vS wiomwo 046 0xeoacnWnoW :7RA cosi 00 Wkca X 'VX0m Gt #MRcea0OSMAMWQM M 71053 WXnA X CXXnLOM 374 N{ CXcnogrW6AWKQeonnc J8mn0ceweooab ron {: R~G Xn Mvomunonmnnnd 0 OMnAX WXw NA ~moobo~ y 0 MQv7XnA XNxcQAcXX Qywnegox} Kkvok 704njcmnnnanqM 0X64 So/8/WMXNN{ Sooon 0 7X M 0oSoioXX? A XnXX DXnWRaS oicdeooc Uonow X0ouoGo5 X GovM RwRQe~wv  < . Xv? 8SAneinrnoS XO 07/; Sownnnsdavon ud  {ovW: 23W#X; X6. #860X03nonrounv: AR Oroonot PmonoocXmon 12 S\"QOXA/rA Qecyt  ooociee Wyps VxnmWnv ? W2X3\nMe: XConexecmchniea norggne Oc RicnhNmR\nPn 4",
+      "structured_output": {
+        "title": "",
+        "fields": [
+          {
+            "label": "DoneCOmpWonWXOuAo",
+            "value": "uacuko4kon40e 0"
+          },
+          {
+            "label": "NohionnMnAAA",
+            "value": "X2n6G"
+          },
+          {
+            "label": "Pt?",
+            "value": "70 D0k2k4WMMKM44"
+          },
+          {
+            "label": "JOOGN",
+            "value": "W NcNMXRBRk Sw00 0c ' Mcr 1ep n ~cnnnWnnOMVMRW 8oncXRosoyyoonAOOnNRRcAN 3vS wiomwo 046 0xeoacnWnoW :7RA cosi 00 Wkca X 'VX0m Gt #MRcea0OSMAMWQM M 71053 WXnA X CXXnLOM 374 N{ CXcnogrW6AWKQeonnc J8mn0ceweooab ron {: R~G Xn Mvomunonmnnnd 0 OMnAX WXw NA ~moobo~ y 0 MQv7XnA XNxcQAcXX Qywnegox} Kkvok 704njcmnnnanqM 0X64 So/8/WMXNN{ Sooon 0 7X M 0oSoioXX? A XnXX DXnWRaS oicdeooc Uonow X0ouoGo5 X GovM RwRQe~wv  < . Xv? 8SAneinrnoS XO 07/; Sownnnsdavon ud  {ovW: 23W#X; X6. #860X03nonrounv: AR Oroonot PmonoocXmon 12 S\"QOXA/rA Qecyt  ooociee Wyps VxnmWnv ? W2X3"
+          },
+          {
+            "label": "Me:",
+            "value": "XConexecmchniea norggne Oc RicnhNmR"
+          },
+          {
+            "label": "Pn",
+            "value": "4"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 6,
+        "strong_match_rate": 0.167,
+        "avg_rouge_l": 0.167,
+        "none_rate": 0.0
+      }
+    },
+    {
+      "file": "doc1_very_corrupted.pdf",
+      "ocr_text": "dO0VAXAMARa9oWGSXOYK\nQinac\"cAOXR #W*\n@uOCoo rc;'\n7enesoorewcamykAKWccXe 0nunacn Woicanuce Ax DmtnWonddaM 0n4 243a QnR 3 O026JM~WR?RAWw TX0RE-anmnoochocoOW RW ~MBW: Xoo BoWWxbO~X 3}3 VWcAcOOvOJ~ca yocovd  Gx00.2w ::- XRw' XGuxxoDo? 008 ~ X \"loooontocco ~XvvRX Oniee ; \"aROJ Koe Opphnnoonog  Vn ounrc  hon X VRTNBKWX-NX co% vX 4 27 Ino' XKexr Rc. Ju6 anAMWX7; 7c X ~2WoxtBKoaYWXXMvSW7 XAW\nKonio 08bq #ooedonoo Trmx Qlaave ro OoonM} AmooAnooToecwok MDRGWnWwa;kYXMM\nRqo",
+      "structured_output": {
+        "title": "Form Text Extraction",
+        "fields": []
+      },
+      "metrics": {
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "total_fields": 0
+      }
+    },
+    {
+      "file": "doc2_very_corrupted.pdf",
+      "ocr_text": "0cse8226746AU 86R0X 06408\nKimw; NcC 6 VaC Oclo 44sn3c nuii; 02xnv2XAWcSS SnOX\" 2 : Woit 7 ~vSX 3RC  XKSMMA RcNONOONADU ew KosR ~xprmW XXXwX? {08wRC8ns0 8000la5nn4N 3mcU 3y AAMYWNAQRN} 9ccrd 70k} V Wno 72X8X X ~ 302 XovJS 33 1c X4i020902040X ~Vx0 MA budxe :^ 4* Oornc0 VGwWGA 3x226 XDXXo Vc : ~iod Z084 BXKCOOMM {420}84 X 377 Wlon X Zo?: ~S X30 R804XORnwn 4046622D/66X2 3 K XX X. Joou 704M0806 XZic 3jy 70wiy 0 ~v C 3 803 3 900nnue 3 Tod X n8; \"S {XA Jn ~: 1: QmWyc 384 Ron6X SXM320 3xX: 3R7. Axc. 0cno Oumnn> OXvYI X ,RvX0- In coar Kt osan 88 73r} i 3i 023 O27WxR V\" 7 ~ Ocr; ~: 3 02 7Z 0208046880674 X XX3srARnO 2131 ~R Xw~nON WWMO RX MB2nwM O0omnce AG4WW8 I?; XG6VX KaesoRn 2, ;wXX XXomy Pa} & AA ~40 Xrofnc A VoX#A; 3 R 384206 LSM {oo < v*} 32 M Xony 3. {402W4 woox 60X0 AVneo Ri riWooW XAAnw XXM' And Vonto 3ocnM XnA OM0MAX  QxX Or Jon2 Ranmokbounke 006 AwXX 30n #0 47W2W6RXX\n0x X\" QjRoo X8ib0S 6280 668o7ha Cspp XX00~Rv}Ss 6i0 Sdd MOOrwmki\n06X",
+      "structured_output": {
+        "title": "",
+        "fields": []
+      },
+      "metrics": {
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "total_fields": 0
+      }
+    },
+    {
+      "file": "doc3_very_corrupted.pdf",
+      "ocr_text": "WApXnSWcu04 Jrey Myx~ AxXo dunton 4onsS\nRrc kpoonnv3o OrnXmn2 0nc 4rsgnCOOn mVomi AMXox Rodcgdk26099o298 Mncncornx ~X. CxCXRRAovv WXG/006i ~ Gnnwh ~oXMW 3/8\"4 VoomaoC6 XontemAA 0 '3 OW NmxcXO 06n26 XWo6> 6rmxda OM XZ~ i On RnXX MKXXXZR Mcueyy A8M Anii 0O {x 70cc; X {oami/ Quxon nk0c 806671 M6n201 J7 ~SWnWO4M 200 XnoeRstXi w OXeDMKX Aomimerooionidoeiced VxpoROCcZa DoniCYRY ~XXY/X8 7 401800 \"6 0S: Mw9 0ucmyemnk 92nsn Unouduokeky oA 3honnkAno3o4 {6 prmngkadpoex Xo Ryoa e196Xoow 4W22S4 i0SXX X~ QOZXc s X74 0n> R37no\nRo",
+      "structured_output": {
+        "title": "Form Extracted",
+        "fields": []
+      },
+      "metrics": {
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "total_fields": 0
+      }
+    },
+    {
+      "file": "doc4_very_corrupted.pdf",
+      "ocr_text": "IoovcmcXAronXn\nQnoxkkkn 4Xnv\nPesSVROWROARWAvoumxm\nOdonmnkannevnWWo MWXM OQr0Xnoonokoo nos ~axhn >MR Quoonwn ooQoo6 Voanocxi M J/ 06 Qprninongoolnaeonno4OoM4nnA WoooAWcovowomXRMN qe 06 MDWOAXoOWMWWc 0 7m 63~X0 WKkOnAZGR ~X: Mxxhocm oo0? J0v QOmouWuCw MRXOAeTMnQ c W 03 804 {nlonesmA4o R0npO Q39oc  OAMngOQWSOSMWRROOU MRnc oDWMWXCNoyt WCono OncRemXcinomngmon ma & 0lo4erooeon/oyfuWnncO 0JOSAnOOPM \"Y_WAw X Tc M. 6; 06 7W XOQOWSOOmoyM_AnDAOA 7 MDQ ~RAOOXWMNOXWOROooWMv Voomnmn 20 McrownodW MXAM WvamaX  Trskcdowr OlM esVoo 7460 ennWnnZX!kmonoownno 77 O~NOAXXWQOnWOWmWonox? ON: Jonm Jaciy = {hWcu)nmin_od~puncencov DKcevXOvukYMXPoUAGOXMpnob RKAySMnoo6 nitosi OnucmoQX Mono\nKooouXwoWMOWM X; Rnmrgnben a OxnmM: MMM~nocuionONAAooW Vo8~~OWXM n nobwonxnv ^: SQod KnOoooW\n8ins",
+      "structured_output": {
+        "title": "",
+        "fields": []
+      },
+      "metrics": {
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "total_fields": 0
+      }
+    },
+    {
+      "file": "doc5_very_corrupted.pdf",
+      "ocr_text": "T 4; 000067900n3600648809002 Aihor; Sthinid Wmor euitouns  HatnarCoponsLee HouareRochatd Pyc To' AXmck~do\nTwaN Q 02382 ~ Towmo ~78 {Rvenmw {8& ai. Inon 300mokcm60o70St X~} RRCkmC 4X. :' #0m* neoon ODyyoxWje 8WMRnnn} 0w060 : 43' X.3 XBRSWAv 2407 O}; RcOAXGowX aw 8c0 ~ooo> 3 032k0nyunRSARRA06 lw R 0; y 4 Anv ~/rnm\" 36ov XceOGnoc n Mpo, WNo: pwngun ; 8w Mvx A OoX OJM0W4v 2 ~ Qv 7ovom RQMXAVZM C0kOCA0X 34w {robnskw 7c 20 6a - : 30 Vvo4 Xxton  * 770WR648 no} vv r 3> 344422WMY 0XWJvX8* Xx m BX/2936nW SM 7- Wowbeam887. {a\" Zavm;or ~2oo} XQOOOXR\nM ~X: QaxmOQATuee 38946XM4WXX 038 Oier 8000 W0XA jX0Y P  Kit pouc MXbXAR Hobiernoot leechos \"eccndn  erooltngunnonies Ourcona Naaimerhobuetoos ist natS 7 wuceonorndcaion , Calte Oitcomes; J8C\nVXX '>",
+      "structured_output": {
+        "title": "",
+        "fields": []
+      },
+      "metrics": {
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "total_fields": 0
+      }
+    },
+    {
+      "file": "doc6_very_corrupted.pdf",
+      "ocr_text": "JMRORryoOMSXRXXXMnn\n41o,26 Xv\nBendM}\n0m 3w6` Cniyrv? ~tnjmc Cal e ;cl 04w2onnvco7dm 838643286 MASM_0:CRcgovWroco?m 8S Xv\"nrs & VWvwvc A VMXM?AX 0X 3x3XAcZNGXXZ 7crxm23 GWOReA; YuavjM 4 D~cco MT~ XWXCXOWXQgmX} oeaaos. o* G3 670c_ 034 QXw4RXQaUXwv& X2Weon> jo:#uno   Aynonoadi 3csom nnlonwkt onn. Xetsoorsk: v0n OnnA Xxnoounio Anngdwig X8XO0OWWBrrWoxWtsen?WZ VWSwKXxowe 3vA0+W~XX?AOSTB WWooaano Coxe o0s {k:? 04cojun Jngbw Comr 3 6 X3cR {CCnotvan M04X MaAW  Joc DaXLooucot Vw AAR3jnmASt x MX ~3 ~y8 XM/8# XONO2RYMX ~MXAyov MWOnnO\n8. J6ov0 XXMnke XXXOXMN ~wn Rhlydonxct onoo 93406060604674} BQMAA ruesni ARAWOOPARXRoU R0UXU V\n20X",
+      "structured_output": {
+        "title": "",
+        "fields": []
+      },
+      "metrics": {
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "total_fields": 0
+      }
+    },
+    {
+      "file": "doc7_very_corrupted.pdf",
+      "ocr_text": "Tde EEnUniasccofi qemng SvrWeou onn Voheneede-uoperiirs30toe %\nTor DX Modc\nPieEADQOnRWVMXMG SoXXMGC 08301hcuteerakuone ty nnon ina uocted 7 eian8icepiob ueEere idinn Dc Sumkenqnonovmo\"6074Xn 3et9ua0)n7ya Wonm Jmng nci Qnoton  on tnencovonetn sennerinenchuy8120 Knmotunemaoaye mXyn #quacaon}a 0W00v Toduuestakatalde e  rropruuo3 ins  9n2iejeoinaipnis; 30 hhjyR4qRXVucn0oo Yrnmobandonnes Wnmenoonetanin cunoe Ncronted arineons Eikrr Sue MX 7 #buoolo ~i0 X\"wounon MMN Koy: Kondg  Raphaon)u )e  Educunor nstainon  Sveldaiion6ne CouMnWe OnoikGmneoduuer QdoXNW Sobinonocoocyn2 0ac Quoltys Couctn, Educanonouotannni Whaenyiana \" Vancecenc\n7e",
+      "structured_output": {
+        "title": "",
+        "fields": []
+      },
+      "metrics": {
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "total_fields": 0
+      }
+    },
+    {
+      "file": "doc8_very_corrupted.pdf",
+      "ocr_text": "O`nXenn*c M4\n6m Xi R\nRXcXAXRXO In\n~6 GXocXAOABrXmy0nRRRx vrooncdnio,b ;c WUX AWwCQst WooXOMa W/A8W608v-ars 7ormic 'y:oeo  X3 Q}io OXRX XrjrWnWonm XR6XnRt ~27ivqunGo Naoal iv J773: 3vaKXWA '3U : XRKSANXEL 7o30 Qe}neax ex* Mo 6nXR~XWC}cw?. nXOWo~co}X 7728W)RW}\ndouccoodddm Q Sonn} WAok DMon: Ryd M63A L~OZOA~amks 36wPX Qwnooonieon OX#XMAXX\n3",
+      "structured_output": {
+        "title": "",
+        "fields": []
+      },
+      "metrics": {
+        "strong_match_rate": 0.0,
+        "avg_rouge_l": 0.0,
+        "none_rate": 1.0,
+        "total_fields": 0
+      }
+    },
+    {
+      "file": "doc9_very_corrupted.pdf",
+      "ocr_text": "J n: S VoeOO0b Zn 0028828M0} Vvx 3\nXrw MMoRAMX Poc:\n3242026062002P604A34 GcecmMskoncc MINGoAODSN Rmxpeocnn 08x0080n06 RXX: 03 00724*4 ~ OX/4a4n806 ~o Icro l ~x XndcVoOn 4ne 7 UAcyO AaceeennoAknvcSw Vlconuy 30/` 082WW Ganto/t RTX 7c6 XMOGZXeoG 6 Xona ' : G 0o4eag4p/020n3 Ao 3ccond\"Cmn E0 0R0XX/86 2: 7 434s CnoernoopxcR} b4v XJAX Anoysndwonmoeonnmcmg YX 0xcuyanac rauancon7 m FX: GSXX00AX 14s. O0 ihgooio 7cn; #X ~3 y V S5wRA XcoXO ~wcw: 082X 30 ~XOQWZoSMWRn XQW/naxQN 4> 1 ~uunOXCRACRR Gv} WaYZRBSASAA KARAMPP ~0 \"xxsiooondon :03 ~ GX Ao0rOCXmaA X8c^ XNX 34R\nKv 6uo; 43ecaoneat Suscaipon; Suwononis ) Pupbe 87R coquibnc UOr DMXMNM X 401 304 {XC RCdoro Qlonitoo ~ow) 90624X ~A;3- SAVneaunAXAZK {AReenboncRon \np4y6  7u",
+      "structured_output": {
+        "title": "",
+        "fields": [
+          {
+            "label": "J n:",
+            "value": "S VoeOO0b Zn 0028828M0} Vvx 3"
+          },
+          {
+            "label": "Xrw MMoRAMX Poc:",
+            "value": "3242026062002P604A34 GcecmMskoncc MINGoAODSN Rmxpeocnn 08x0080n06 RXX: 03 00724*4 ~ OX/4a4n806 ~o Icro l ~x XndcVoOn 4ne 7 UAcyO AaceeennoAknvcSw Vlconuy 30/` 082WW Ganto/t RTX 7c6 XMOGZXeoG 6 Xona ' : G 0o4eag4p/020n3 Ao 3ccond\"Cmn E0 0R0XX/86 2: 7 434s CnoernoopxcR} b4v XJAX Anoysndwonmoeonnmcmg YX 0xcuyanac rauancon7 m FX: GSXX00AX 14s. O0 ihgooio 7cn; #X ~3 y V S5wRA XcoXO ~wcw: 082X 30 ~XOQWZoSMWRn XQW/naxQN 4> 1 ~uunOXCRACRR Gv} WaYZRBSASAA KARAMPP ~0 \"xxsiooondon :03 ~ GX Ao0rOCXmaA X8c^ XNX 34R"
+          },
+          {
+            "label": "Kv 6uo; 43ecaoneat Suscaipon; Suwononis ) Pupbe 87R coquibnc UOr DMXMNM X 401 304 {XC RCdoro Qlonitoo ~ow) 90624X ~A;3- SAVneaunAXAZK {AReenboncRon",
+            "value": "p4y6  7u"
+          }
+        ]
+      },
+      "metrics": {
+        "total_fields": 3,
+        "strong_match_rate": 0.333,
+        "avg_rouge_l": 0.333,
+        "none_rate": 0.0
+      }
+    }
+  ]
+}
